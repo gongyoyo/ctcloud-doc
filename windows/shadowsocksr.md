@@ -8,10 +8,6 @@ description: ShadowsocksR 3.6.1
 * 设备要求： Windows 计算机
 * [点此下载软件](https://www.lanzous.com/i3s6yab)
 
-> [蓝奏云下载](https://www.lanzous.com/i3s6yab)
-
-{% file src="../.gitbook/assets/ssr-win.exe" caption="本地下载" %}
-
 ## 前言
 
 {% hint style="info" %}
