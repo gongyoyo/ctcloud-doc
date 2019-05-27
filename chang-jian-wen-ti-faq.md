@@ -1,11 +1,11 @@
 # 常见问题 \| F.A.Q
 
-> 这是一个常见问题的列表，请按照自己的设备进行查询。如果按照以下说明，问题仍无法解决，可以[联系我们](panel?id=联系我们)！
+> 这是一个常见问题的列表，请按照自己的设备进行查询。如果按照以下说明，问题仍无法解决，可以[联系我们](https://github.com/liuyanxi975/ctcloud-doc/tree/4d117e1e1d2b863b7426d576593d0a3a3fb7805e/panel?id=联系我们/README.md)！
 
-* [Windows（ShadowsocksR）](chang-jian-wen-ti-faq#windows-shadowsocksr）)
-* [Windows-SSTAP（游戏加速）](faq?id=windows-sstap（游戏加速）)
-* [安卓](faq?id=安卓)
-* [IOS（苹果）](faq?id=ios（苹果）)
+* [Windows（ShadowsocksR）](https://doc.tzct.xyz/chang-jian-wen-ti-faq#windows-shadowsocksr)
+* [Windows-SSTAP（游戏加速）](https://doc.tzct.xyz/chang-jian-wen-ti-faq#windowssstap-you-xi-jia-su)
+* [安卓](https://doc.tzct.xyz/chang-jian-wen-ti-faq#an-zhuo)
+* [IOS（苹果）](https://doc.tzct.xyz/chang-jian-wen-ti-faq#ios-ping-guo)
 
 !&gt; 如果本指南还是无法解决您的问题，请点击网页右下角的聊天图标，联系我们！
 
@@ -24,7 +24,7 @@
 3. 请尝试更换其他节点。
 4. 请确认网站账户还有费用以及流量。
 5. 可能是网络问题，请尝试重新拨号（不会的重启路由器光猫也一样）。
-6. 可能是系统问题，导致ssr无法接管系统代理。可以[点击这里](/win-socks5)参照教程，配置socks5来上网。
+6. 可能是系统问题，导致ssr无法接管系统代理。可以[点击这里](https://github.com/liuyanxi975/ctcloud-doc/tree/4d117e1e1d2b863b7426d576593d0a3a3fb7805e/win-socks5/README.md)参照教程，配置socks5来上网。
 
 ### •为什么我能上去Google，但是xx网站我上不去/xx服务无法使用？
 
