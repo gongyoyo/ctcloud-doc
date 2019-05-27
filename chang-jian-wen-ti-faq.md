@@ -2,7 +2,7 @@
 
 > 这是一个常见问题的列表，请按照自己的设备进行查询。如果按照以下说明，问题仍无法解决，可以[联系我们](panel?id=联系我们)！
 
-* [Windows（ShadowsocksR）](faq?id=windows（shadowsocksr）)
+* [Windows（ShadowsocksR）](chang-jian-wen-ti-faq#windows-shadowsocksr）)
 * [Windows-SSTAP（游戏加速）](faq?id=windows-sstap（游戏加速）)
 * [安卓](faq?id=安卓)
 * [IOS（苹果）](faq?id=ios（苹果）)
