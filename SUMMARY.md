@@ -4,5 +4,6 @@
 * [Windows](windows/README.md)
   * [SSR](windows/shadowsocksr.md)
   * [Clash](windows/clash.md)
+  * [SSTAP](windows/untitled.md)
 * [常见问题 \| F.A.Q](chang-jian-wen-ti-faq.md)
 
