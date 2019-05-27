@@ -10,12 +10,14 @@ description: 游戏专用加速器
 * [点此下载软件安装包](https://share.weiyun.com/5sZtorP)
 
 {% hint style="info" %}
-* 本站仅允许付费用户使用游戏节点，如想使用请[点击这里](https://www.tzct.xyz/user)前往商店购买套餐！
+本站仅允许付费用户使用游戏节点，如想使用请[点击这里](https://www.tzct.xyz/user)前往商店购买套餐！
 {% endhint %}
 
 ## 前言
 
-!&gt; 在使用本站服务前，我们建议您保存好本站的联系方式，以防止与我们失联。
+{% hint style="info" %}
+在使用本站服务前，我们建议您保存好本站的联系方式，以防止与我们失联。
+{% endhint %}
 
 1. 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
 2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](https://github.com/liuyanxi975/ctcloud-doc/tree/64ccee195e206bc4ae326a3d5dfd080e0df2e7ba/telegram/README.md)！\)
