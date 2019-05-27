@@ -8,3 +8,5 @@ description: 请选择您要使用的软件
 
 {% page-ref page="clash.md" %}
 
+{% page-ref page="sstap.md" %}
+
