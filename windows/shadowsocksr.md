@@ -1,6 +1,4 @@
 # ShadowsocksR
 
-\[woidsaa\]\(https://ctcloud.top\)
-
-
+[下载](https://ctcloud.online)
 
