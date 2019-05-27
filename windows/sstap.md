@@ -20,7 +20,7 @@ description: 游戏专用加速器
 {% endhint %}
 
 1. 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
-2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](https://github.com/liuyanxi975/ctcloud-doc/tree/64ccee195e206bc4ae326a3d5dfd080e0df2e7ba/telegram/README.md)！\)
+2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](https://doc.tzct.xyz/telegram)！\)
 3. TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
 
 ## 软件安装
@@ -48,7 +48,7 @@ description: 游戏专用加速器
 ![](../.gitbook/assets/tap2.png)
 
 {% hint style="warning" %}
-刷新完毕后看不到游戏节点？[点击这里查看解决方案](https://github.com/liuyanxi975/ctcloud-doc/tree/64ccee195e206bc4ae326a3d5dfd080e0df2e7ba/faq?id=-为什么按照教程配置完成后，节点刷新不出？/README.md)
+刷新完毕后看不到游戏节点？[点击这里查看解决方案](https://doc.tzct.xyz/faq#windows)
 {% endhint %}
 
 3.选择合适的游戏线路,模式选择 **不代理中国IP** 
@@ -66,7 +66,7 @@ description: 游戏专用加速器
 {% endhint %}
 
 {% hint style="warning" %}
- 配置完成后连不上？出现错误？[点击这里](https://github.com/liuyanxi975/ctcloud-doc/tree/64ccee195e206bc4ae326a3d5dfd080e0df2e7ba/faq?id=为什么提示tcp传输失败udp转发失败？/README.md)查看解决方案！
+ 配置完成后连不上？出现错误？[点击这里](https://doc.tzct.xyz/faq#windows)查看解决方案！
 {% endhint %}
 
 ### 手动更新订阅教程
