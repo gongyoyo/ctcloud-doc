@@ -2,13 +2,6 @@
 
 > 这是一个常见问题的列表，请按照自己的设备进行查询。如果按照以下说明，问题仍无法解决，可以[联系我们](panel?id=联系我们)！
 
-* [Windows（ShadowsocksR）](/chang-jian-wen-ti-faq#wei-shen-me-ti-shi-fu-wu-qi-ding-yue-geng-xin-shi-bai)
-* [Windows-SSTAP（游戏加速）](/chang-jian-wen-ti-faq#windowssstap-you-xi-jia-su)
-* [安卓](/chang-jian-wen-ti-faq#an-zhuo)
-* [IOS（苹果）](/chang-jian-wen-ti-faq#ios-ping-guo)
-
-!&gt; 如果本指南还是无法解决您的问题，请点击网页右下角的聊天图标，联系我们！
-
 ## Windows（ShadowsocksR）
 
 ### •为什么提示“服务器订阅更新失败”？
