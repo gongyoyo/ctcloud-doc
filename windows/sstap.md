@@ -1,56 +1,77 @@
-# Windows客户端 - 游戏专版
+---
+description: 游戏专用加速器
+---
 
-*   系统要求： Windows XP 以上
-*   设备要求： Windows 计算机
-*   软件要求： .NET Framework 4.0以上
-*   [点此下载软件安装包](https://share.weiyun.com/5sZtorP)
+# SSTAP（游戏）
 
-    > 专版支持高并发数SSR连接和UDP转发，对游戏友好。
+* 系统要求： Windows XP 以上
+* 设备要求： Windows 计算机
+* 软件要求： .NET Framework 4.0以上
+* [点此下载软件安装包](https://share.weiyun.com/5sZtorP)
 
-	!> 本站仅允许付费用户使用游戏节点，如想使用请[点击这里](https://ctcloud.pro/user/shop)前往商店购买套餐！
+{% hint style="info" %}
+* 本站仅允许付费用户使用游戏节点，如想使用请[点击这里](https://www.tzct.xyz/user)前往商店购买套餐！
+{% endhint %}
 
-### 前言
+## 前言
 
-!> 在使用本站服务前，我们建议您保存好本站的联系方式，以防止与我们失联。
+!&gt; 在使用本站服务前，我们建议您保存好本站的联系方式，以防止与我们失联。
 
 1. 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
-2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](/telegram)！)
+2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](https://github.com/liuyanxi975/ctcloud-doc/tree/64ccee195e206bc4ae326a3d5dfd080e0df2e7ba/telegram/README.md)！\)
 3. TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
 
-### 软件安装
+## 软件安装
 
-?> 您可以在上方下载Windows的游戏专用版**zip压缩**，解压并安装完毕后打开软件即可。
+您可以在上方下载SSTAP，解压并安装完毕后打开软件即可。
 
-!> 第一次运行时，系统会弹出是否允许虚拟网卡，请一定要点**允许**。
+{% hint style="warning" %}
+第一次运行时，系统会弹出是否允许虚拟网卡，请一定要点**允许**。
+{% endhint %}
 
+## 导入节点
 
-### 导入节点
+1.点击右下角\[设置\]-\[SSR订阅\]-\[SSR订阅管理\]
 
-1.点击右下角[设置]-[SSR订阅]-[SSR订阅管理]
-
-![sstap订阅](../images/tap1.png)
-
+![](../.gitbook/assets/tap1.png)
 
 2.在窗口中将`游戏线路订阅地址`粘贴到 URL 栏并点击添加，然后关闭窗口。此时软件将会自动更新订阅链接，完成后您可以看到节点。
 
-?> 订阅链接可以在阁下之 [用户中心](https://www.tzct.xyz/user "点击前往用户中心") 下方找到。
+{% hint style="info" %}
+订阅链接可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
+{% endhint %}
 
-![信息列表](../images/user_center_2.png)
+![](../.gitbook/assets/user_center_2.png)
 
-![sstap订阅](../images/tap2.png)
+![](../.gitbook/assets/tap2.png)
 
-!> 刷新完毕后看不到游戏节点？[点击这里查看解决方案](/faq?id=-为什么按照教程配置完成后，节点刷新不出？)
+{% hint style="warning" %}
+刷新完毕后看不到游戏节点？[点击这里查看解决方案](https://github.com/liuyanxi975/ctcloud-doc/tree/64ccee195e206bc4ae326a3d5dfd080e0df2e7ba/faq?id=-为什么按照教程配置完成后，节点刷新不出？/README.md)
+{% endhint %}
 
-3.选择合适的游戏线路,模式选择 **不代理中国IP** ，点击连接即可开启游戏加速之旅。
+3.选择合适的游戏线路,模式选择 **不代理中国IP** 
 
-?> 关于模式选择：不代理中国IP模式是万能的，可以加速全部外服游戏。
+{% hint style="info" %}
+关于模式选择：不代理中国IP模式是万能的，可以加速全部外服游戏。选择其他模式反而容易出问题。
+{% endhint %}
 
-!> 请注意，游戏节点禁止下载和科学上网等！
+{% hint style="success" %}
+此时您已经完成了全部配置，点击连接即可开启游戏加速之旅。
+{% endhint %}
 
-!> 配置完成后连不上？出现错误？[点击这里](/faq?id=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8F%90%E7%A4%BAtcp%E4%BC%A0%E8%BE%93%E5%A4%B1%E8%B4%A5udp%E8%BD%AC%E5%8F%91%E5%A4%B1%E8%B4%A5%EF%BC%9F)查看解决方案！
+{% hint style="danger" %}
+请注意，游戏节点禁止下载和科学上网等！
+{% endhint %}
 
-##### 手动更新订阅教程
+{% hint style="warning" %}
+ 配置完成后连不上？出现错误？[点击这里](https://github.com/liuyanxi975/ctcloud-doc/tree/64ccee195e206bc4ae326a3d5dfd080e0df2e7ba/faq?id=为什么提示tcp传输失败udp转发失败？/README.md)查看解决方案！
+{% endhint %}
 
-?> 在一些情况下（如网站节点更新，或您从免费账户升级至VIP后），您需要手动更新订阅，以获取最新节点。
+### 手动更新订阅教程
+
+{% hint style="info" %}
+在一些情况下（如网站节点更新，或您从免费账户升级至VIP后），您需要手动更新订阅，以获取最新节点。
+{% endhint %}
 
 右键电脑右下角托盘中的sstap图标（小盾牌），选择【SSR订阅 --》手动更新SSR订阅】，等待刷新完毕即可。
+

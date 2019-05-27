@@ -4,6 +4,6 @@
 * [Windows](windows/README.md)
   * [SSR](windows/shadowsocksr.md)
   * [Clash](windows/clash.md)
-  * [SSTAP](windows/sstap.md)
+  * [SSTAP（游戏）](windows/sstap.md)
 * [常见问题 \| F.A.Q](chang-jian-wen-ti-faq.md)
 
