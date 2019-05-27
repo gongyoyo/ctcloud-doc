@@ -1,8 +1,17 @@
+---
+description: >-
+  国内的聊天软件审核越来越严格了，据反映很多Q群都让给封了，所以现在推荐目前全世界都在用的通讯软件Telegram，很多人不会使用它，而且默认也没有中文语言，所以写个简单的入门使用教程。
+---
+
 # Telegram教程
 
-?&gt; 国内的聊天软件审核越来越严格了，据反映很多Q群都让给封了，所以现在推荐目前全世界都在用的通讯软件Telegram，很多人不会使用它，而且默认也没有中文语言，所以写个简单的入门使用教程。
+{% hint style="danger" %}
+TG在中国被封锁，从下载安装使用全程需要代理！
+{% endhint %}
 
-> 在TG中绑定本站服务不仅可以加入TG群组，还可以使用机器人进行签到，查看剩余流量时间等方便的操作！
+{% hint style="info" %}
+在TG中绑定本站服务不仅可以加入TG群组，还可以使用机器人进行签到，查看剩余流量时间等方便的操作！
+{% endhint %}
 
 ## Telegram简介
 
@@ -20,27 +29,19 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 ### Telegram安装
 
-!&gt; [PC客户端](https://desktop.telegram.org/)， [Android客户端](https://play.google.com/store/apps/details?id=org.telegram.messenger)， [IOS客户端](https://itunes.apple.com/app/telegram-messenger/id686449807)， [MAC OS X客户端](https://macos.telegram.org/)， [Web网页客户端](https://telegram.org/dl/webogram)， 记得**挂代理（科学上网）**下载。
-
-### Telegram专用代理
-
-> 使用我们提供的专用代理（MTPROTO），可直接访问Telegram服务！当然您也可以使用本站提供的SSR进行访问。
-
-要使用专用代理请确保您已经安装了Telegram
-
-!&gt; 由于tg代理频繁被封锁，我们暂停了该服务，请通过本站服务访问telegram。
+> [PC客户端](https://desktop.telegram.org/)， [Android客户端](https://play.google.com/store/apps/details?id=org.telegram.messenger)， [IOS客户端](https://itunes.apple.com/app/telegram-messenger/id686449807)， [MAC OS X客户端](https://macos.telegram.org/)， [Web网页客户端](https://telegram.org/dl/webogram)， 记得**挂代理（科学上网）**下载。
 
 ### Telegram注册
 
 这里以PC版为例，其他平台使用方法一样。安装并运行Telegram PC\(Desktop\)后，会出现如下界面，点击 START MESSAGING 按钮继续。
 
-![:size=600x475](https://github.com/liuyanxi975/ctcloud-doc/tree/f66f1b66fe3b2a83fcf8c477bac4c0501104044c/images/telegram_register.png)
+![](.gitbook/assets/telegram_register.png)
 
 然后就会让你输入你的 手机号，不过因为 Telegram的服务器被墙了，所以需要先设置代理才能 注册/登录。请使用本站提供的S-S-R服务进行访问。
 
 继续我们一开始的步骤，选择国家并输入你的手机号，注意别人除非加你好友，否则是无法看到手机号的。然后点击 NEXT 按钮继续。
 
-![:size=600x425](https://github.com/liuyanxi975/ctcloud-doc/tree/f66f1b66fe3b2a83fcf8c477bac4c0501104044c/images/telegram_code.png)
+![](.gitbook/assets/telegram_code.png)
 
 验证手机号后，会提示输入你的 名字\(First Name\)和 姓氏\(Last Name\)，以及上传头像，填写完后点击 SIGN UP 按钮继续。 到这里，我们就完成了 下载/安装 - 注册/登录 - 设置代理 了，接下来教你如何载入汉化文件。
 
@@ -56,7 +57,9 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 请在 [用户中心](https://www.tzct.xyz/user) 中查看 **用户须知** 里的“Telegram群组加入教程”以进行绑定。
 
-!&gt; 为本站持续长久运行，管控管理员工作量，故TG群只对VIP会员开放，敬请谅解
+{% hint style="info" %}
+为本站持续长久运行，管控管理员工作量，故TG群只对VIP会员开放，敬请谅解
+{% endhint %}
 
 ## 在Telegram中使用本站的服务
 
@@ -64,17 +67,19 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 1.首先请到与机器人聊天的界面（[点击这里联系机器人](https://t.me/ccctcloud_bot)）
 
-!&gt; 虽然在我们的用户群里也一样可以操作，但是不推荐，为保持群内环境整洁，我们将自动删除机器人给予您的回复。
+{% hint style="info" %}
+虽然在我们的用户群里也一样可以操作，但是不推荐，为保持群内环境整洁，我们将自动删除机器人给予您的回复。
+{% endhint %}
 
 2.点击聊天框的按钮（如图所示，没有请手动输入“/”）
 
-![:size=400x50](https://github.com/liuyanxi975/ctcloud-doc/tree/f66f1b66fe3b2a83fcf8c477bac4c0501104044c/images/t-1.jpg)
+![](.gitbook/assets/t-1.jpg)
 
 3.点击您想使用的功能
 
-![:size=400x170](https://github.com/liuyanxi975/ctcloud-doc/tree/f66f1b66fe3b2a83fcf8c477bac4c0501104044c/images/t-2.jpg)
+![](.gitbook/assets/t-2.jpg)
 
 4.您可以接收到机器人的回复
 
-![:size=400x350](https://github.com/liuyanxi975/ctcloud-doc/tree/f66f1b66fe3b2a83fcf8c477bac4c0501104044c/images/t-3.jpg)
+![](.gitbook/assets/t-3.jpg)
 
