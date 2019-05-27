@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% tabs %}
-{% tab title="Windows（ShadowsocksR）" %}
+{% tab title="Win-SSR" %}
 ### •为什么提示“服务器订阅更新失败”？
 
 1. 请确认，您点击的是“更新SSR服务器订阅（**不通过代理**）”，注意括号里的字！是这项。
@@ -30,7 +30,7 @@
 这种情况一般是劫持因素，请访问谷歌香港站：[https://www.google.com.hk](https://www.google.com.hk)
 {% endtab %}
 
-{% tab title="Windows-SSTAP（游戏加速）" %}
+{% tab title="Win-SSTAP" %}
 ### •为什么提示tcp传输失败/udp转发失败？
 
 1. 首先请尝试更换节点
