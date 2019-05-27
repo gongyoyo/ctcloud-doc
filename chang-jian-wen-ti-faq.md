@@ -2,7 +2,7 @@
 
 > 这是一个常见问题的列表，请按照自己的设备进行查询。如果按照以下说明，问题仍无法解决，可以[联系我们](https://github.com/liuyanxi975/ctcloud-doc/tree/4d117e1e1d2b863b7426d576593d0a3a3fb7805e/panel?id=联系我们/README.md)！
 
-* [Windows（ShadowsocksR）](https://doc.tzct.xyz/chang-jian-wen-ti-faq#windows-shadowsocksr)
+* [Windows（ShadowsocksR）](#windows-shadowsocksr)
 * [Windows-SSTAP（游戏加速）](https://doc.tzct.xyz/chang-jian-wen-ti-faq#windowssstap-you-xi-jia-su)
 * [安卓](https://doc.tzct.xyz/chang-jian-wen-ti-faq#an-zhuo)
 * [IOS（苹果）](https://doc.tzct.xyz/chang-jian-wen-ti-faq#ios-ping-guo)
