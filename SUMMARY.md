@@ -9,7 +9,7 @@
   * [Clash](basic/windows/clash.md)
   * [SSTAP（游戏）](basic/windows/sstap.md)
 * [Android](basic/android/README.md)
-  * [Untitled](basic/android/untitled.md)
+  * [SSR](basic/android/ssr.md)
 * [路由器](basic/lu-you-qi/README.md)
   * [梅林固件-SSR](basic/lu-you-qi/untitled.md)
 

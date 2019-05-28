@@ -1,4 +1,4 @@
-# Untitled
+# SSR
 
 * 系统要求： Android 4.0 及以上
 * 设备要求： Android手机或平板设备
@@ -22,15 +22,25 @@
 
 1.打开 SSR\(R\) 应用程序。
 
+![](../../.gitbook/assets/android-1.png)
+
 2.点击顶部的\[shadowsocks R▼\]进入**节点列表**。
+
+![](../../.gitbook/assets/android-2.png)
 
 3.在\[Android SSR Default\]处向右滑动，以便删除软件自带的无效节点。
 
+![](../../.gitbook/assets/android-3.png)
+
 4.点击右下角\[+\]按钮。
+
+![](../../.gitbook/assets/android-4.png)
 
 5.选择\[添加/升级 SSR 订阅\]。
 
 6.在弹出的窗口中删除自带无效订阅。（由于FreeSSR源已**停止维护**，将其置于订阅列表中可能影响订阅更新的速度）
+
+![](../../.gitbook/assets/android-5.png)
 
 7.再次点击\[+\]。
 
@@ -38,11 +48,17 @@
 
 9.点击\[添加订阅地址\]，输入您的**订阅地址**。
 
+![](../../.gitbook/assets/android-6.png)
+
 {% hint style="info" %}
 订阅地址可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
 {% endhint %}
 
+![](../../.gitbook/assets/dyurl.png)
+
 10.勾选\[自动更新\]，并点击\[确定并升级\]。
+
+![](../../.gitbook/assets/android-7.png)
 
 {% hint style="warning" %}
 点击后一直转圈？请[点击这里](../../other/faq.md#android)获取解决方案。
@@ -127,6 +143,8 @@
 {% hint style="info" %}
 第一次使用可能会向您索要系统权限，通过即可。
 {% endhint %}
+
+![](../../.gitbook/assets/android-8.png)
 
 {% hint style="success" %}
 至此您已经配置完成可以上网了。
