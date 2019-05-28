@@ -23,4 +23,5 @@
 
 * [常见问题 \| F.A.Q](other/faq.md)
 * [用户服务协议](other/tos.md)
+* [Appstore账号自助解锁教程](other/untitled.md)
 
