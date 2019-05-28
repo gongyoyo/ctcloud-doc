@@ -1,8 +1,12 @@
+---
+description: Koolshare LEDE 是 Openwrt x64 (LEDE) 路由器操作系统的 Koolshare 社区分支。
+---
+
 # Koolshare LEDE - SSR
 
-Koolshare LEDE 是 Openwrt x64 \(LEDE\) 路由器操作系统的 Koolshare 社区分支。
-
+{% hint style="info" %}
 关于如何刷入固件，请访问 [Koolshare 社区](http://koolshare.cn/forum-97-1.html)
+{% endhint %}
 
 ## 前言
 

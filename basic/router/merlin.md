@@ -1,3 +1,7 @@
+---
+description: 梅林固件是基于华硕固件的另一个分支
+---
+
 # 梅林固件 - SSR
 
 {% hint style="warning" %}
