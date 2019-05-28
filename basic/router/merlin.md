@@ -1,5 +1,5 @@
 ---
-description: 梅林固件是基于华硕固件的另一个分支
+description: 梅林固件是华硕路由器操作系统（Asuswrt）的另一个分支
 ---
 
 # 梅林固件 - SSR
