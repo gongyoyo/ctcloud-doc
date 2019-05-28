@@ -4,28 +4,28 @@
 
 ## 基础
 
-* [Windows](ji-chu/windows/README.md)
-  * [SSR](ji-chu/windows/ssr.md)
-  * [Clash](ji-chu/windows/clash.md)
-  * [SSTAP（游戏）](ji-chu/windows/sstap.md)
-* [Android](ji-chu/android/README.md)
-  * [SSR](ji-chu/android/ssr.md)
-* [IOS](ji-chu/ios/README.md)
-  * [Shadowrocket](ji-chu/ios/shadowrocket.md)
-* [MAC](ji-chu/mac/README.md)
-  * [ShadowsocksX-NG-R8](ji-chu/mac/shadowsocksx.md)
-* [路由器](ji-chu/router/README.md)
-  * [梅林固件-SSR](ji-chu/router/merlin.md)
+* [Windows](basic/windows/README.md)
+  * [SSR](basic/windows/ssr.md)
+  * [Clash](basic/windows/clash.md)
+  * [SSTAP（游戏）](basic/windows/sstap.md)
+* [Android](basic/android/README.md)
+  * [SSR](basic/android/ssr.md)
+* [IOS](basic/ios/README.md)
+  * [Shadowrocket](basic/ios/shadowrocket.md)
+* [MAC](basic/mac/README.md)
+  * [ShadowsocksX-NG-R8](basic/mac/shadowsocksx.md)
+* [路由器](basic/router/README.md)
+  * [梅林固件-SSR](basic/router/merlin.md)
 
 ## 高级
 
-* [Telegram教程](gao-ji/telegram.md)
-* [NF相关问题](gao-ji/nf.md)
-* [通过Socks5使用SSR](gao-ji/socks5.md)
+* [Telegram教程](advanced/telegram.md)
+* [NF相关问题](advanced/nf.md)
+* [通过Socks5使用SSR](advanced/socks5.md)
 
 ## 其它
 
-* [常见问题 \| F.A.Q](qi-ta/faq.md)
-* [用户服务协议](qi-ta/tos.md)
-* [Appstore账号自助解锁教程](qi-ta/unlock.md)
+* [常见问题 \| F.A.Q](other/faq.md)
+* [用户服务协议](other/tos.md)
+* [Appstore账号自助解锁教程](other/unlock.md)
 
