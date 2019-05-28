@@ -12,7 +12,8 @@
   * [SSR](basic/android/ssr.md)
 * [IOS](basic/ios/README.md)
   * [Shadowrocket](basic/ios/shadowrocket.md)
-* [MAC](basic/mac.md)
+* [MAC](basic/mac/README.md)
+  * [ShadowsocksX-NG-R8](basic/mac/shadowsocksx.md)
 * [路由器](basic/router/README.md)
   * [梅林固件-SSR](basic/router/merlin.md)
 
