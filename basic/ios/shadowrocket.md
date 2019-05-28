@@ -24,6 +24,8 @@ description: 又名”小火箭“
 由于中国区Shadowrocket已下架，您可使用自己的**其他国家区域**账号购买Shadowrocket或者使用我们提供的美区账号。要使用我们提供的美区账号请前往 [用户中心](https://www.tzct.xyz/user/) 查看“**用户须知**”部分。注意，只有购买本站VIP、试用的用户可以获取！
 {% endhint %}
 
+![](../../.gitbook/assets/xhjzh1.png)
+
 {% hint style="info" %}
 如果您拥有自己的软件（需支持ssr协议）但是没有订阅选项（从某助手下载的shadowrocket也是没有订阅选项的），请[点击这里](/panel?id=手动获取配置)查看手动配置教程进行手动配置。
 {% endhint %}
@@ -37,6 +39,8 @@ description: 又名”小火箭“
 1.打开手机“**设置**”
 
 2.向下翻，找到“**Itunes Store 与 App Store**”，打开
+
+![](../../.gitbook/assets/appstore.jpg)
 
 3.在上方点击自己的账号，选择“**退出登录**”
 
@@ -62,13 +66,21 @@ description: 又名”小火箭“
 
 1.请点击位于软件右上角的\[+\]按键
 
+![](../../.gitbook/assets/ios1.png)
+
 2.在类型中选择**Subscribe**
+
+![](../../.gitbook/assets/ios2.png)
 
 3.在URL栏中输入**订阅地址**，点击完成后，即可自动更新节点。
 
 {% hint style="info" %}
 订阅地址可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
 {% endhint %}
+
+![](../../.gitbook/assets/dyurl.png)
+
+![](../../.gitbook/assets/ios3.png)
 
 {% hint style="warning" %}
 无法获取到节点？出现错误？请[点击这里](../../other/faq.md)获取解决方案
@@ -97,6 +109,8 @@ description: 又名”小火箭“
 {% hint style="warning" %}
 如果懒得看的话就选择 **代理** 吧，这样就和传统VPN一样，用完记得关。
 {% endhint %}
+
+![](../../.gitbook/assets/ios4.png)
 
 {% tabs %}
 {% tab title="配置" %}
