@@ -17,6 +17,8 @@
   * [ShadowsocksX-NG-R8](basic/mac/shadowsocksx.md)
 * [路由器](basic/router/README.md)
   * [梅林固件-SSR](basic/router/merlin.md)
+* [Linux](basic/linux/README.md)
+  * [ShadowsocksR](basic/linux/ssr.md)
 
 ## 高级
 
