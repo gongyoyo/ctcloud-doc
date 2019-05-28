@@ -1,5 +1,5 @@
 ---
-description: ShadowsocksR 3.6.1
+description: 传统代理工具
 ---
 
 # SSR

@@ -12,6 +12,9 @@
   * [SSR](basic/android/ssr.md)
 * [路由器](basic/router/README.md)
   * [梅林固件-SSR](basic/router/merlin.md)
+* [IOS](basic/ios/README.md)
+  * [Shadowrocket](basic/ios/shadowrocket.md)
+* [MAC](basic/mac.md)
 
 ## 高级
 
