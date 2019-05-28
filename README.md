@@ -22,7 +22,7 @@
 
 
 
-Copyright © 2018 - 2019 CTCloud All rights reserved
+:Copyright © 2018 - 2019 CTCloud All rights reserved:
 
 
 
