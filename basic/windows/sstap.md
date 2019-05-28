@@ -7,7 +7,6 @@ description: 游戏专用加速器
 * 系统要求： Windows XP 以上
 * 设备要求： Windows 计算机
 * 软件要求： .NET Framework 4.0以上
-* [点此下载软件安装包](https://share.weiyun.com/5sZtorP)
 
 {% hint style="info" %}
 本站仅允许付费用户使用游戏节点，如想使用请[点击这里](https://www.tzct.xyz/user)前往商店购买套餐！
@@ -22,6 +21,14 @@ description: 游戏专用加速器
 1. 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
 2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](../../advanced/telegram.md)！\)
 3. TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
+
+## 软件下载
+
+蓝奏云：
+
+腾讯微云：
+
+{% embed url="https://share.weiyun.com/5sZtorP" %}
 
 ## 软件安装
 

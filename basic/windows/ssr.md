@@ -6,7 +6,6 @@ description: ShadowsocksR 3.6.1
 
 * 系统要求： Windows XP 及以上
 * 设备要求： Windows 计算机
-* [点此下载软件](https://www.lanzous.com/i3s6yab)
 
 ## 前言
 
@@ -17,6 +16,14 @@ description: ShadowsocksR 3.6.1
 1. 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
 2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](../../advanced/telegram.md)！\)
 3. TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
+
+## 软件下载
+
+蓝奏云：
+
+{% embed url="https://www.lanzous.com/i3s6yab" %}
+
+腾讯微云：
 
 ## 软件安装
 
