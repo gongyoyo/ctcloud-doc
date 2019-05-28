@@ -14,7 +14,7 @@ description: 传统代理工具，稳定值得信赖
 {% endhint %}
 
 1. 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
-2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](../../advanced/telegram.md)！\)
+2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](../../gao-ji/telegram.md)！\)
 3. TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
 
 ## 软件下载
@@ -71,7 +71,7 @@ description: 传统代理工具，稳定值得信赖
 ![](../../.gitbook/assets/android-7.png)
 
 {% hint style="warning" %}
-点击后一直转圈？请[点击这里](../../other/faq.md#android)获取解决方案。
+点击后一直转圈？请[点击这里](../../qi-ta/faq.md#android)获取解决方案。
 {% endhint %}
 
 完成以上步骤后，节点列表将显示所有可用节点。
@@ -157,7 +157,7 @@ description: 传统代理工具，稳定值得信赖
 {% endhint %}
 
 {% hint style="warning" %}
-配置完成还是不能上网？请[点击这里](../../other/faq.md#android)获取解决方案
+配置完成还是不能上网？请[点击这里](../../qi-ta/faq.md#android)获取解决方案
 {% endhint %}
 
 ### 手动更新订阅

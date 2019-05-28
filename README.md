@@ -12,6 +12,14 @@
 
 ## \[注意\]
 
+{% hint style="info" %}
+在使用本站服务前，我们建议您保存好本站的联系方式，以防止与我们失联。
+{% endhint %}
+
+* 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
+* TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](gao-ji/telegram.md)！\)
+* TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
+
 {% hint style="warning" %}
 所有的支持文档都存在生命周期
 {% endhint %}
@@ -20,9 +28,5 @@
 
 如果在目录中找不到您想要的文档信息，请使用搜索功能。如果依然找不到有用的信息，请联系我们。
 
-
-
-<center>Copyright © 2018 - 2019 CTCloud All rights reserved</center>
-
-
+Copyright © 2018 - 2019 CTCloud All rights reserved
 

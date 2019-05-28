@@ -10,7 +10,7 @@
 {% endhint %}
 
 1. 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
-2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](../../advanced/telegram.md)！\)
+2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](../../gao-ji/telegram.md)！\)
 3. TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
 
 ## 软件下载
