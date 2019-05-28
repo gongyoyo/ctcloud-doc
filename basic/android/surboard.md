@@ -1,5 +1,5 @@
 ---
-description: 可使用Clash配置的安卓客户端
+description: 可使用Clash配置的安卓客户端，适合高玩
 ---
 
 # Surboard
