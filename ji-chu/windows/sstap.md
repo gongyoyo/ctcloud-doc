@@ -35,7 +35,7 @@ description: 游戏专用加速器
 
 1.点击右下角\[设置\]-\[SSR订阅\]-\[SSR订阅管理\]
 
-![](../.gitbook/assets/tap1.png)
+![](../../.gitbook/assets/tap1.png)
 
 2.在窗口中将`游戏线路订阅地址`粘贴到 URL 栏并点击添加，然后关闭窗口。此时软件将会自动更新订阅链接，完成后您可以看到节点。
 
@@ -43,9 +43,9 @@ description: 游戏专用加速器
 订阅链接可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
 {% endhint %}
 
-![](../.gitbook/assets/user_center_2.png)
+![](../../.gitbook/assets/user_center_2.png)
 
-![](../.gitbook/assets/tap2.png)
+![](../../.gitbook/assets/tap2.png)
 
 {% hint style="warning" %}
 刷新完毕后看不到游戏节点？[点击这里查看解决方案](https://doc.tzct.xyz/faq#windows)

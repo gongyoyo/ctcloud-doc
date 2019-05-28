@@ -35,13 +35,13 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 这里以PC版为例，其他平台使用方法一样。安装并运行Telegram PC\(Desktop\)后，会出现如下界面，点击 START MESSAGING 按钮继续。
 
-![](.gitbook/assets/telegram_register.png)
+![](../.gitbook/assets/telegram_register.png)
 
 然后就会让你输入你的 手机号，不过因为 Telegram的服务器被墙了，所以需要先设置代理才能 注册/登录。请使用本站提供的S-S-R服务进行访问。
 
 继续我们一开始的步骤，选择国家并输入你的手机号，注意别人除非加你好友，否则是无法看到手机号的。然后点击 NEXT 按钮继续。
 
-![](.gitbook/assets/telegram_code.png)
+![](../.gitbook/assets/telegram_code.png)
 
 验证手机号后，会提示输入你的 名字\(First Name\)和 姓氏\(Last Name\)，以及上传头像，填写完后点击 SIGN UP 按钮继续。 到这里，我们就完成了 下载/安装 - 注册/登录 - 设置代理 了，接下来教你如何载入汉化文件。
 
@@ -73,13 +73,13 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 2.点击聊天框的按钮（如图所示，没有请手动输入“/”）
 
-![](.gitbook/assets/t-1.jpg)
+![](../.gitbook/assets/t-1.jpg)
 
 3.点击您想使用的功能
 
-![](.gitbook/assets/t-2.jpg)
+![](../.gitbook/assets/t-2.jpg)
 
 4.您可以接收到机器人的回复
 
-![](.gitbook/assets/t-3.jpg)
+![](../.gitbook/assets/t-3.jpg)
 

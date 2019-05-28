@@ -21,7 +21,7 @@ description: ShadowsocksR 3.6.1
 ## 软件安装
 
 1. 您可以在上方找到**ShadowsocksR**客户端的下载链接，下载完毕后，打开进行安装。
-2. 安装完成后，在桌面找到ShadowsocksR，双击打开，即可在任务栏中看到如图所示的**小飞机图标**（颜色会因配置不同而改变）。 ![](../.gitbook/assets/ssrwin-logo.png)
+2. 安装完成后，在桌面找到ShadowsocksR，双击打开，即可在任务栏中看到如图所示的**小飞机图标**（颜色会因配置不同而改变）。 ![](../../.gitbook/assets/ssrwin-logo.png)
 
 
 
@@ -35,7 +35,7 @@ description: ShadowsocksR 3.6.1
 郑重提醒！！！！安装完第一步，右下角托盘的小飞机，右键，将负载均衡关闭！！！！默认开启的！！！否则，将会导致断线，风控，各种流媒体无法使用，严重还会导致账号被封！
 {% endhint %}
 
-![&#x4E0D;&#x8981;&#x52FE;&#x9009;&#x6B64;&#x9009;&#x9879;](../.gitbook/assets/win-5.png)
+![&#x4E0D;&#x8981;&#x52FE;&#x9009;&#x6B64;&#x9009;&#x9879;](../../.gitbook/assets/win-5.png)
 
 ## 导入节点设置
 
@@ -43,13 +43,13 @@ description: ShadowsocksR 3.6.1
 
 2.选择\[服务器订阅\]。
 
-![](../.gitbook/assets/win-1.png)
+![](../../.gitbook/assets/win-1.png)
 
 3.选择\[SSR服务器订阅设置\]。
 
 4.完成以上步骤后将出现如图所示的对话框：
 
-![](../.gitbook/assets/win-2.png)
+![](../../.gitbook/assets/win-2.png)
 
 {% hint style="danger" %}
 此处请注意，请**严格按照**以下步骤操作，不可更换操作顺序，否则会添加失败！！！
@@ -67,15 +67,15 @@ description: ShadowsocksR 3.6.1
 订阅链接可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
 {% endhint %}
 
-![](../.gitbook/assets/user_center_2.png)
+![](../../.gitbook/assets/user_center_2.png)
 
 4. 勾选\[自动更新\]，点击\[确认\]按钮。
 
-![](../.gitbook/assets/dingyue.gif)
+![](../../.gitbook/assets/dingyue.gif)
 
 5. 右键小飞机图标，点击\[服务器订阅 ---&gt; 更新SSR服务器订阅（不通过代理）\]，是不通过代理的选项请注意！！！点击后等待出现 SSR服务器订阅更新成功 即可。
 
-![](../.gitbook/assets/dingyue.png)
+![](../../.gitbook/assets/dingyue.png)
 
 {% hint style="warning" %}
 如出现 **SSR服务器订阅更新失败** 请[点击这里](https://doc.tzct.xyz/faq#windows)获取解决方案。
@@ -105,7 +105,7 @@ description: ShadowsocksR 3.6.1
 
 您可以右键**小飞机图标**，点击\[系统代理模式\]来设定它。
 
-![](../.gitbook/assets/win-4.png)
+![](../../.gitbook/assets/win-4.png)
 
 系统代理模式分为3种：
 
@@ -150,7 +150,7 @@ description: ShadowsocksR 3.6.1
 3. 勾选\[开机启动\]。
 4. 点击\[确定\]按钮。（此时您可能需要同意UAC权限）
 
-![](../.gitbook/assets/win-3.png)
+![](../../.gitbook/assets/win-3.png)
 
 ### 手动更新订阅
 
