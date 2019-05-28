@@ -125,7 +125,7 @@ description: ShadowsocksR 3.6.1
 {% endtab %}
 
 {% tab title="PAC模式（推荐）" %}
-**AC模式**将根据您访问的服务器所在地理位置自动分流，如访问的服务器在国内则不通过**ShadowsocksR服务** 直接连接，服务在国外则通过**ShadowsocksR服务**连接。该项设置可帮助您提高页面访问速度并且节省**ShadowsocksR**流量。
+**PAC模式**将根据您访问的服务器所在地理位置自动分流，如访问的服务器在国内则不通过**ShadowsocksR服务** 直接连接，服务在国外则通过**ShadowsocksR服务**连接。该项设置可帮助您提高页面访问速度并且节省**ShadowsocksR**流量。
 {% endtab %}
 
 {% tab title="全局模式" %}
