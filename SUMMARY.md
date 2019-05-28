@@ -9,7 +9,7 @@
   * [Clash](basic/windows/clash.md)
   * [SSTAP（游戏）](basic/windows/sstap.md)
 * [路由器](basic/lu-you-qi/README.md)
-  * [Untitled](basic/lu-you-qi/untitled.md)
+  * [梅林固件-SSR](basic/lu-you-qi/untitled.md)
 
 ## 高级
 
