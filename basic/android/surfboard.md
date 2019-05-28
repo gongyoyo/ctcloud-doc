@@ -2,7 +2,7 @@
 description: 可使用Clash配置的安卓客户端，适合高玩
 ---
 
-# Surboard
+# Surfboard
 
 {% hint style="danger" %}
 该应用处于测试期，不保证稳定，有一定的操作难度！
@@ -11,6 +11,16 @@ description: 可使用Clash配置的安卓客户端，适合高玩
 > Surfboard 是一个正在进行 Beta 测试的 Android 代理应用，兼容 Surge 配置。[开发者 Twitter](https://twitter.com/getsurfboard)
 >
 > 请[前往 HockeyApp 测试平台](https://rink.hockeyapp.net/recruit/2113783c503645abb0a5ec6317e1a169)获取 Beta 版软件（需要注册，请不要使用第三方平台登录）
+
+## 前言
+
+{% hint style="info" %}
+在使用本站服务前，我们建议您保存好本站的联系方式，以防止与我们失联。
+{% endhint %}
+
+1. 地址发布页，建议收藏！地址：[http://ctfb.xyz](http://ctfb.xyz)
+2. TG频道：[点击关注](https://t.me/cctcloud) （TG是一个国外通讯软件，需要翻墙，具体的教程[在这里](../../advanced/telegram.md)！\)
+3. TG群：TG群仅允许VIP会员加入，购买会员后，在用户中心的用户须知可见！
 
 ## 软件下载
 
