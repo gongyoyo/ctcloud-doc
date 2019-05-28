@@ -24,15 +24,15 @@ description: 可使用Clash配置的安卓客户端
 
 2.打开 Surfboard，选择下方第三个选项卡 Profile \(配置文件\)，点击页面中的 "+" 加号，选择 "Download from URL" ，粘贴配置文件链接并下载。
 
-![](../.gitbook/assets/5c7e81d64ab1a.png)
+![](../../.gitbook/assets/5c7e81d64ab1a.png)
 
 3.下载后可长按配置文件，重命名文件\(Rename\)，更新配置 \(Check Update\)，或者删除配置。
 
-![](../.gitbook/assets/5c7e81d5b8458.png)
+![](../../.gitbook/assets/5c7e81d5b8458.png)
 
 4.回到下方第二个选项卡 Config，我们为您提供了三个自动节点「稳定」& 「低延迟」和「Netflix 最佳节点」，这三个节点可以根据网络环境自动切换至最佳节点。如您有自己的使用习惯，也可自行选择节点。
 
-![](../.gitbook/assets/5c7e81d64e125.png)
+![](../../.gitbook/assets/5c7e81d64e125.png)
 
 5.选择节点后，回到第一个选项卡 Switch 页面，点击下方红色按钮开启。系统可能会询问是否允许 VPN 连接，点击允许。
 

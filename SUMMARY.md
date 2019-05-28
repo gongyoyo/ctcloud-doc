@@ -11,7 +11,7 @@
   * [SSTAP（游戏）](basic/windows/sstap.md)
 * [Android](basic/android/README.md)
   * [SSR](basic/android/ssr.md)
-* [Surboard](basic/surboard.md)
+  * [Surboard](basic/android/surboard.md)
 * [IOS](basic/ios/README.md)
   * [Shadowrocket](basic/ios/shadowrocket.md)
 * [MAC](basic/mac/README.md)
