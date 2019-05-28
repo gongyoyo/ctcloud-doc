@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CTCloud - Documents/用户手册](README.md)
+* [用户中心](https://www.tzct.xyz/user)
 * [用户面板向导](panel.md)
 
 ## 基础
