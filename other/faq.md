@@ -4,7 +4,7 @@ description: 这是一个常见问题的列表，请按照自己的设备进行�
 
 # 常见问题 \| F.A.Q
 
-选择设备：
+**请选择设备：**
 
 [Windows](faq.md#windows)     [Android](faq.md#android)     [IOS](faq.md#ios)
 

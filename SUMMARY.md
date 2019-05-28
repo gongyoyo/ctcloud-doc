@@ -13,7 +13,7 @@
 
 * [Telegram教程](advanced/telegram.md)
 * [NF相关问题](advanced/nf.md)
-* [Untitled](advanced/untitled.md)
+* [通过Socks5使用SSR](advanced/socks5.md)
 
 ## 其它
 
