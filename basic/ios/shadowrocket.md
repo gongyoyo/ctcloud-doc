@@ -51,7 +51,7 @@ description: 又名”小火箭“
 {% endhint %}
 
 {% hint style="warning" %}
-登录时提示账号被锁？[点击这里](../../other/untitled.md)进行自助解锁或在网页右下角联系我们进行解锁（可能需要一些时间）
+登录时提示账号被锁？[点击这里](../../other/unlock.md)进行自助解锁或在网页右下角联系我们进行解锁（可能需要一些时间）
 {% endhint %}
 
 5.登录完成后即可前往Appstore搜索“**shadowrocket**”进行下载。
@@ -83,7 +83,7 @@ description: 又名”小火箭“
 ![](../../.gitbook/assets/ios3.png)
 
 {% hint style="warning" %}
-无法获取到节点？出现错误？请[点击这里](../../other/faq.md)获取解决方案
+无法获取到节点？出现错误？请[点击这里](../../other/faq.md#ios)获取解决方案
 {% endhint %}
 
 4.如果您是第一次使用本软件，请继续向下看。
@@ -185,7 +185,7 @@ description: 又名”小火箭“
 {% endhint %}
 
 {% hint style="warning" %}
-设置完成仍无法访问？请[点击这里](/faq?id=为什么我的节点无法连接连上了上不了网？)获取解决方案
+设置完成仍无法访问？请[点击这里](../../other/faq.md#ios)获取解决方案
 {% endhint %}
 
 ## 其他配置

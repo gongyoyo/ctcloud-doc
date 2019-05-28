@@ -10,11 +10,11 @@
   * [SSTAP（游戏）](basic/windows/sstap.md)
 * [Android](basic/android/README.md)
   * [SSR](basic/android/ssr.md)
-* [路由器](basic/router/README.md)
-  * [梅林固件-SSR](basic/router/merlin.md)
 * [IOS](basic/ios/README.md)
   * [Shadowrocket](basic/ios/shadowrocket.md)
 * [MAC](basic/mac.md)
+* [路由器](basic/router/README.md)
+  * [梅林固件-SSR](basic/router/merlin.md)
 
 ## 高级
 
@@ -26,5 +26,5 @@
 
 * [常见问题 \| F.A.Q](other/faq.md)
 * [用户服务协议](other/tos.md)
-* [Appstore账号自助解锁教程](other/untitled.md)
+* [Appstore账号自助解锁教程](other/unlock.md)
 
