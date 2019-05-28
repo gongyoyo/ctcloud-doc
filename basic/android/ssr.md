@@ -2,7 +2,6 @@
 
 * 系统要求： Android 4.0 及以上
 * 设备要求： Android手机或平板设备
-* [点此下载软件](https://share.weiyun.com/5vs1aYR)
 
 ## 前言
 
