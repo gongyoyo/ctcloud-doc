@@ -34,7 +34,7 @@ description: LEDE 是 Openwrt x64 (LEDE) 路由器操作系统的另一个分支
 
 4.保存订阅设置之后，回到该页面，点击「手动更新订阅」。
 
-![](https://i.loli.net/2019/03/08/5c822b1f1e98e.png)
+![](../../.gitbook/assets/5c822b1f1e98e.png)
 
 5.回到「帐号设置」页面，选择需要使用的服务器节点，提交并开启「koolss开关」。
 
