@@ -1,3 +1,7 @@
+---
+description: 新一代代理工具，拥有更加先进的功能，适合高玩
+---
+
 # ClashX
 
 [在 GitHub 上下载并安装 ClashX \(选择最新版本 dmg 文件\)](https://github.com/yichengchen/clashX/releases)

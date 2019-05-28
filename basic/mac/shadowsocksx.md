@@ -1,3 +1,7 @@
+---
+description: 传统代理工具，稳定值得信赖
+---
+
 # ShadowsocksX-NG-R8
 
 * 系统要求： macOS 10.11 以上
