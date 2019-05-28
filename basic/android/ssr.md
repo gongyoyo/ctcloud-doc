@@ -117,9 +117,6 @@
 > 注意，在这里我们提供了多种链接，代表不同的规则。规则来自于[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)，感谢！
 
 * 黑名单过滤 + 广告[https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl)
-
-
-
 * 白名单过滤 + 广告[https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl)
 
 两者差别如下（打 ✔ 代表走我们的服务）：
