@@ -88,7 +88,7 @@ description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 ![](../../.gitbook/assets/dingyue.png)
 
 {% hint style="warning" %}
-如出现 **SSR服务器订阅更新失败** 请[点击这里](https://doc.tzct.xyz/faq#windows)获取解决方案。
+如出现 **SSR服务器订阅更新失败** 请[点击这里](../../other/faq.md#windows)获取解决方案。
 {% endhint %}
 
 {% hint style="info" %}
@@ -148,7 +148,7 @@ description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 {% endhint %}
 
 {% hint style="warning" %}
-配置完成还是不能上网？请[点击这里](https://doc.tzct.xyz/faq#windows)获取解决方案。
+配置完成还是不能上网？请[点击这里](../../other/faq.md#windows)获取解决方案。
 {% endhint %}
 
 ### 自动运行
@@ -172,6 +172,6 @@ description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 2. 点击\[服务器订阅 ---&gt;  更新SSR服务器订阅**（不通过代理）**\]，等待成功消息即可。
 
 {% hint style="warning" %}
-如出现 **SSR服务器订阅更新失败** 请[点击这里](https://doc.tzct.xyz/faq#windows)获取解决方案。
+如出现 **SSR服务器订阅更新失败** 请[点击这里](../../other/faq.md#windows)获取解决方案。
 {% endhint %}
 

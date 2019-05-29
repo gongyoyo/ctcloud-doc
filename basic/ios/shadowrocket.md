@@ -27,7 +27,7 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 ![](../../.gitbook/assets/xhjzh1.png)
 
 {% hint style="info" %}
-如果您拥有自己的软件（需支持ssr协议）但是没有订阅选项（从某助手下载的shadowrocket也是没有订阅选项的），请[点击这里](/panel?id=手动获取配置)查看手动配置教程进行手动配置。
+如果您拥有自己的软件（需支持ssr协议）但是没有订阅选项（从某助手下载的shadowrocket也是没有订阅选项的），请[点击这里](../../panel.md#shou-dong-huo-qu-pei-zhi)查看手动配置教程进行手动配置。
 {% endhint %}
 
 ### 登录我们提供的Appstore账号

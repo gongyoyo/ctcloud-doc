@@ -55,7 +55,7 @@ description: 游戏专用加速器
 ![](../../.gitbook/assets/tap2.png)
 
 {% hint style="warning" %}
-刷新完毕后看不到游戏节点？[点击这里查看解决方案](https://doc.tzct.xyz/faq#windows)
+刷新完毕后看不到游戏节点？[点击这里查看解决方案](../../other/faq.md#windows)
 {% endhint %}
 
 4.选择合适的游戏线路,模式选择 **不代理中国IP** 
@@ -75,7 +75,7 @@ description: 游戏专用加速器
 {% endhint %}
 
 {% hint style="warning" %}
- 配置完成后连不上？出现错误？[点击这里](https://doc.tzct.xyz/faq#windows)查看解决方案！
+ 配置完成后连不上？出现错误？[点击这里](../../other/faq.md#windows)查看解决方案！
 {% endhint %}
 
 ### 手动更新订阅教程
