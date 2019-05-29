@@ -20,15 +20,17 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 
 ## 软件安装
 
+{% hint style="info" %}
+免费用户看这里：请下载Potatso Lite进行使用本站服务。因为它是免费应用。下载配置教程[点击这里查看](potatso-lite.md)。
+{% endhint %}
+
 {% hint style="warning" %}
 由于中国区Shadowrocket已下架，您可使用自己的**其他国家区域**账号购买Shadowrocket或者使用我们提供的美区账号。要使用我们提供的美区账号请前往 [用户中心](https://www.tzct.xyz/user/) 查看“**用户须知**”部分。注意，只有购买本站VIP、试用的用户可以获取！
 {% endhint %}
 
-![](../../.gitbook/assets/xhjzh1.png)
 
-{% hint style="info" %}
-如果您拥有自己的软件（需支持ssr协议）但是没有订阅选项（从某助手下载的shadowrocket也是没有订阅选项的），请[点击这里](../../panel.md#shou-dong-huo-qu-pei-zhi)查看手动配置教程进行手动配置。
-{% endhint %}
+
+![](../../.gitbook/assets/xhjzh1.png)
 
 ### 登录我们提供的Appstore账号
 
