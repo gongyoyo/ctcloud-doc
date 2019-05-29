@@ -73,7 +73,7 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 ![](../../.gitbook/assets/snipaste_2019-05-29_17-41-02.png)
 
 {% hint style="warning" %}
-点击没有反应？请使用Safari打开本站，进行配置操作。还是不行？[点击这里查看](shadowrocket.md#shou-dong-tian-jia-ding-yue)手动导入教程。
+点击没有反应？没有看到这个按钮？请使用“**Safari**”打开本站，进行配置操作。还是不行？[点击这里查看](shadowrocket.md#shou-dong-tian-jia-ding-yue)手动导入教程。
 {% endhint %}
 
 3.导入节点后，请继续向下看完成配置。
