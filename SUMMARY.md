@@ -16,6 +16,7 @@
   * [Surfboard](basic/android/surfboard.md)
   * [SSD](basic/android/ssd.md)
 * [IOS](basic/ios/README.md)
+  * [Potatso Lite](basic/ios/potatso-lite.md)
   * [Shadowrocket](basic/ios/shadowrocket.md)
   * [Quamtumult](basic/ios/quamtumult.md)
   * [Surge](basic/ios/surge.md)

@@ -1,5 +1,5 @@
 ---
-description: 又名”小火箭“
+description: 又名”小火箭“，功能齐全，收费但我们为VIP提供账号。
 ---
 
 # Shadowrocket
