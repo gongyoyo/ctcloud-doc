@@ -1,5 +1,5 @@
 ---
-description: 可使用Clash配置的安卓客户端，适合高玩
+description: 可使用Surge2配置的安卓客户端，适合高玩
 ---
 
 # Surfboard
@@ -9,8 +9,6 @@ description: 可使用Clash配置的安卓客户端，适合高玩
 {% endhint %}
 
 > Surfboard 是一个正在进行 Beta 测试的 Android 代理应用，兼容 Surge 配置。[开发者 Twitter](https://twitter.com/getsurfboard)
->
-> 请[前往 HockeyApp 测试平台](https://rink.hockeyapp.net/recruit/2113783c503645abb0a5ec6317e1a169)获取 Beta 版软件（需要注册，请不要使用第三方平台登录）
 
 ## 前言
 
@@ -24,13 +22,21 @@ description: 可使用Clash配置的安卓客户端，适合高玩
 
 ## 软件下载
 
- 加入 Beta 测试后，请[前往 HockeyApp 下载](https://rink.hockeyapp.net/apps/37108b2364df445b8461466a0cd734a9) Android apk 安装文档。
+ ~~首先请~~[~~前往 HockeyApp 测试平台~~](https://rink.hockeyapp.net/recruit/2113783c503645abb0a5ec6317e1a169)~~获取 Beta 版软件（需要注册，请不要使用第三方平台登录）~~
+
+{% hint style="info" %}
+最新消息：Surfboard暂停招募测试人员，仅原先加入测试的方可下载。
+{% endhint %}
+
+加入 Beta 测试后，请[前往 HockeyApp 下载](https://rink.hockeyapp.net/apps/37108b2364df445b8461466a0cd734a9) Android apk 安装文档。
 
 ## 在 Surfboard 中使用订阅配置
 
- 打开 Android 设备的浏览器 \(推荐 Chrome\)，前往 GFW.cat 客户中心 - [我的服务](https://my.gfw.cat/clientarea.php?action=productdetails)，点击「订阅信息」中的「其它配置」。
+1.前往[用户中心](https://www.tzct.xyz/user)，到Surfboard托管处点击“一键托管”。如果无反应请点击复制链接参照第二步。
 
-在新页面中，点击「Surge 托管配置」右侧的复制。
+{% hint style="warning" %}
+仅一键托管失败参考第二步，成功请跳过。
+{% endhint %}
 
 2.打开 Surfboard，选择下方第三个选项卡 Profile \(配置文件\)，点击页面中的 "+" 加号，选择 "Download from URL" ，粘贴配置文件链接并下载。
 
@@ -38,11 +44,15 @@ description: 可使用Clash配置的安卓客户端，适合高玩
 
 3.下载后可长按配置文件，重命名文件\(Rename\)，更新配置 \(Check Update\)，或者删除配置。
 
-![](../../.gitbook/assets/5c7e81d5b8458.png)
+![](../../.gitbook/assets/photo_2019-05-29_10-02-54.jpg)
 
-4.回到下方第二个选项卡 Config，我们为您提供了三个自动节点「稳定」& 「低延迟」和「Netflix 最佳节点」，这三个节点可以根据网络环境自动切换至最佳节点。如您有自己的使用习惯，也可自行选择节点。
+4.回到下方第二个选项卡 Config，找到Proxy字段（如图，默认就在最上面）。在此处您可以选择节点。Auto-UrlTest即代表自动选择最佳。如您有自己的使用习惯，也可自行选择节点。
 
-![](../../.gitbook/assets/5c7e81d64e125.png)
+{% hint style="info" %}
+下方还有很多字段，包括Domestic，Others，Adblock等等。这些属于进阶规则，如果您感兴趣，可以点击这里查看相关教程。请勿在看教程之前随意修改，否则可能出现问题！
+{% endhint %}
+
+![](../../.gitbook/assets/photo_2019-05-29_10-07-10.jpg)
 
 5.选择节点后，回到第一个选项卡 Switch 页面，点击下方红色按钮开启。系统可能会询问是否允许 VPN 连接，点击允许。
 
