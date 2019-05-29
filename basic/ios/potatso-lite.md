@@ -40,7 +40,7 @@ description: 免费，简易的代理工具（免费用户可以用）
 订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
-2.点击添加配置，然后如图操作：
+2.回到软件，点击添加配置，然后如图操作：
 
 ![](../../.gitbook/assets/snipaste_2019-05-29_18-19-12.png)
 
