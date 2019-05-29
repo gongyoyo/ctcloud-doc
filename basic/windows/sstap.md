@@ -44,13 +44,17 @@ description: 游戏专用加速器
 
 ![](../../.gitbook/assets/tap1.png)
 
-2.在窗口中将`游戏线路订阅地址`粘贴到 URL 栏并点击添加，然后关闭窗口。此时软件将会自动更新订阅链接，完成后您可以看到节点。
+2.前往用户中心获取订阅链接。
 
 {% hint style="info" %}
-订阅链接可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
 {% endhint %}
 
-![](../../.gitbook/assets/user_center_2.png)
+3.在窗口中将**订阅链接**粘贴到 URL 栏并点击添加，然后关闭窗口。此时软件将会自动更新订阅链接，完成后您可以看到节点。
+
+{% hint style="info" %}
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+{% endhint %}
 
 ![](../../.gitbook/assets/tap2.png)
 
@@ -58,7 +62,7 @@ description: 游戏专用加速器
 刷新完毕后看不到游戏节点？[点击这里查看解决方案](https://doc.tzct.xyz/faq#windows)
 {% endhint %}
 
-3.选择合适的游戏线路,模式选择 **不代理中国IP** 
+4.选择合适的游戏线路,模式选择 **不代理中国IP** 
 
 {% hint style="info" %}
 关于模式选择：不代理中国IP模式是万能的，可以加速全部外服游戏。选择其他模式反而容易出问题。

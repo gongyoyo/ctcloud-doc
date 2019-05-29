@@ -51,13 +51,11 @@ description: 传统代理工具，稳定值得信赖
 
 ![](../../.gitbook/assets/mac-4.png)
 
-3.复制**订阅地址**的链接， 将链接复制到上图对话框的\[订阅地址\]中。单击\[OK\]按钮。
+3.到网站用户中心复制**订阅链接**， 将其粘贴到上图对话框的\[订阅地址\]中。单击\[OK\]按钮。
 
 {% hint style="info" %}
-订阅链接可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
 {% endhint %}
-
-![](../../.gitbook/assets/user_center_2.png)
 
 4.在图片所示处选择\[手动更新订阅\]，稍等片刻，节点列表中将会显示出可用节点。
 

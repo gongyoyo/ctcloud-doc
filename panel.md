@@ -12,15 +12,23 @@ description: 我们在这里为您提供了关于用户面板最基本的指南�
 
 ![](.gitbook/assets/user_center_1.png)
 
-## 连接信息
+## 订阅 / 托管链接
 
-### 订阅链接
+请您妥善保存您的订阅 /托管 链接，它和您的密码一样重要。
 
-请您妥善保存您的订阅链接，它和您的密码一样重要。
+它们可以在阁下之用户中心下方找到。
 
-订阅链接可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
+点击前往用户中心：
 
-![](.gitbook/assets/user_center_2%20%281%29.png)
+![](.gitbook/assets/snipaste_2019-05-29_13-05-00.png)
+
+### 对于SSR/SSTAP/小火箭/Potatso等用户：
+
+请使用 ”**通用订阅“ 。**SSTAP用户自行选择游戏节点进行加速。IOS用户使用小火箭或Quantumult可点击一键导入按钮，方便快捷。
+
+### 对于Clash/Surfboard/Surge/SSD用户：
+
+请使用相对应的托管链接。有一键托管按钮请优先使用，方便快捷。
 
 ## 邀请好友
 

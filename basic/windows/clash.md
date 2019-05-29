@@ -22,7 +22,11 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 ## 配置
 
-1.前往[用户中心](https://www.tzct.xyz/user)下方，到**Clash托管**处点击 “复制链接”
+1.前往用户中心下方，到**Clash托管**处点击 “复制链接”
+
+{% hint style="info" %}
+托管链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+{% endhint %}
 
 2.打开安装好的Clash，点击侧边的“**Profiles**”面板，然后将地址粘贴进如图所示位置，点“**download**”。
 

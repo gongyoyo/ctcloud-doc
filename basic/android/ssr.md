@@ -56,15 +56,13 @@ description: 传统代理工具，稳定值得信赖
 
 8.点击\[添加/升级 SSR 订阅\]
 
-9.点击\[添加订阅地址\]，输入您的**订阅地址**。
-
-![](../../.gitbook/assets/android-6.png)
+9.点击\[添加订阅地址\]，输入您的**订阅链接**。
 
 {% hint style="info" %}
-订阅地址可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
 {% endhint %}
 
-![](../../.gitbook/assets/dyurl.png)
+![](../../.gitbook/assets/android-6.png)
 
 10.勾选\[自动更新\]，并点击\[确定并升级\]。
 

@@ -26,13 +26,11 @@ description: 梅林固件是华硕路由器操作系统（Asuswrt）的另一个
 
 1.首先你要有一台刷好梅林的路由器（梅林的固件版本要在7.7以上，并且SS插件版本要在官方的3.6.3以上）
 
-2.前往 CTCloud 用户中心复制订阅链接。
+2.前往用户中心获取订阅链接。
 
 {% hint style="info" %}
-订阅链接可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
 {% endhint %}
-
-![](../../.gitbook/assets/user_center_2.png)
 
 3.保证您的JFFS分区处于打开状态，打开后应重启路由器，打开方法如下图：  
 

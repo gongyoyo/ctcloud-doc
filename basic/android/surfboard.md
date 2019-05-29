@@ -32,7 +32,11 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 
 ## 在 Surfboard 中使用订阅配置
 
-1.前往[用户中心](https://www.tzct.xyz/user)，到Surfboard托管处点击“一键托管”。如果无反应请点击复制链接参照第二步。
+1.前往用户中心获取托管链接（可使用一键托管）。
+
+{% hint style="info" %}
+托管链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+{% endhint %}
 
 {% hint style="warning" %}
 仅一键托管失败参考第二步，成功请跳过。
