@@ -38,9 +38,9 @@
 
 我们在这里提供了几个范例，您可以快速查看您所需要的。
 
-> [范例1.Chrome/Firefox浏览器](/win-socks5?id=范例1在chrome（或使用chrome内核的浏览器）-firefox中使用浏览器插件通过socks5连接ssr)
+> [范例1.Chrome/Firefox浏览器](socks5.md#fan-li-1-zai-chrome-huo-shi-yong-chrome-nei-he-de-lan-qi-firefox-zhong-shi-yong-lan-qi-cha-jian-tong-guo-socks-5-lian-jie-ssr)
 >
-> [范例2.Telegram](/win-socks5?id=范例2在telegram中设置socks5以连接ssr)
+> [范例2.Telegram](socks5.md#fan-li-2-zai-telegram-zhong-she-zhi-socks-5-yi-lian-jie-ssr)
 
 ### 范例1.在Chrome（或使用Chrome内核的浏览器）/ Firefox中使用浏览器插件通过socks5连接SSR
 
