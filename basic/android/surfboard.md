@@ -6,6 +6,10 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 
 {% hint style="danger" %}
 该应用处于测试期，不保证稳定，有一定的操作难度！
+
+最新消息：Surfboard暂停招募测试人员，仅原先加入测试的方可下载。
+
+普通用户建议查看[SSR教程](ssr.md)！
 {% endhint %}
 
 > Surfboard 是一个正在进行 Beta 测试的 Android 代理应用，兼容 Surge 配置。[开发者 Twitter](https://twitter.com/getsurfboard)
@@ -26,6 +30,8 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 
 {% hint style="info" %}
 最新消息：Surfboard暂停招募测试人员，仅原先加入测试的方可下载。
+
+普通用户建议查看[SSR教程](ssr.md)！
 {% endhint %}
 
 加入 Beta 测试后，请[前往 HockeyApp 下载](https://rink.hockeyapp.net/apps/37108b2364df445b8461466a0cd734a9) Android apk 安装文档。
