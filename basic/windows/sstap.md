@@ -47,14 +47,10 @@ description: 游戏专用加速器
 2.前往用户中心获取订阅链接。
 
 {% hint style="info" %}
-订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
 3.在窗口中将**订阅链接**粘贴到 URL 栏并点击添加，然后关闭窗口。此时软件将会自动更新订阅链接，完成后您可以看到节点。
-
-{% hint style="info" %}
-订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
-{% endhint %}
 
 ![](../../.gitbook/assets/tap2.png)
 

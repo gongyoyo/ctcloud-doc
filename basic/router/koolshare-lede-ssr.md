@@ -27,7 +27,7 @@ description: LEDE 是 Openwrt x64 (LEDE) 路由器操作系统的另一个分支
 1.前往用户中心获取订阅链接。
 
 {% hint style="info" %}
-订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
 2.在「酷软」中下载「科学上网」后，进入「科学上网」页面。

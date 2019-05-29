@@ -25,7 +25,7 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 1.前往用户中心获取托管链接。
 
 {% hint style="info" %}
-托管链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+托管链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
 2.开启 ClashX，点击上方任务栏中的 ClashX -&gt; Config -&gt; Remote config -&gt; Set URL，粘贴链接并确认

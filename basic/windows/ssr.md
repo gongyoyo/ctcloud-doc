@@ -63,7 +63,7 @@ description: 传统代理工具，稳定值得信赖
 5.前往用户中心获取订阅链接。
 
 {% hint style="info" %}
-订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
 6.将订阅链接填入软件。具体操作如下：

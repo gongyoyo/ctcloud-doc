@@ -54,7 +54,7 @@ description: 传统代理工具，稳定值得信赖
 3.到网站用户中心复制**订阅链接**， 将其粘贴到上图对话框的\[订阅地址\]中。单击\[OK\]按钮。
 
 {% hint style="info" %}
-订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
 4.在图片所示处选择\[手动更新订阅\]，稍等片刻，节点列表中将会显示出可用节点。

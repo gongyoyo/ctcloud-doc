@@ -59,7 +59,7 @@ description: 传统代理工具，稳定值得信赖
 9.点击\[添加订阅地址\]，输入您的**订阅链接**。
 
 {% hint style="info" %}
-订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
 ![](../../.gitbook/assets/android-6.png)

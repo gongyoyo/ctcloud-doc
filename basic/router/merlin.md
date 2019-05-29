@@ -29,7 +29,7 @@ description: 梅林固件是华硕路由器操作系统（Asuswrt）的另一个
 2.前往用户中心获取订阅链接。
 
 {% hint style="info" %}
-订阅链接获取教程请[点击这里](../../panel.md#ding-yue-lian-jie)
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
 {% endhint %}
 
 3.保证您的JFFS分区处于打开状态，打开后应重启路由器，打开方法如下图：  
