@@ -62,31 +62,19 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 
 6.下载完毕后请换回自己的账号。
 
-## 导入节点设置
+## 导入节点
 
-1.请点击位于软件右上角的\[+\]按键
+1.点击下方，前往用户中心
 
-![](../../.gitbook/assets/ios1.png)
+2.往下翻，找到订阅链接位置，点击”Shdowrocket导入“按钮即可。
 
-2.在类型中选择**Subscribe**
-
-![](../../.gitbook/assets/ios2.png)
-
-3.在URL栏中输入**订阅地址**，点击完成后，即可自动更新节点。
-
-{% hint style="info" %}
-订阅地址可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
-{% endhint %}
-
-![](../../.gitbook/assets/dyurl.png)
-
-![](../../.gitbook/assets/ios3.png)
+![](../../.gitbook/assets/snipaste_2019-05-29_17-41-02.png)
 
 {% hint style="warning" %}
-无法获取到节点？出现错误？请[点击这里](../../other/faq.md#ios)获取解决方案
+点击没有反应？请使用Safari打开本站，进行配置操作。还是不行？[点击这里查看](shadowrocket.md#shou-dong-tian-jia-ding-yue)手动导入教程。
 {% endhint %}
 
-4.如果您是第一次使用本软件，请继续向下看。
+3.导入节点后，请继续向下看完成配置。
 
 ## 软件设置
 
@@ -197,4 +185,36 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 {% endhint %}
 
 在软件首页，找到我们的订阅（api.ctdy.xyz\)，左滑，然后点击**更新**即可。
+
+### 手动添加订阅
+
+{% hint style="warning" %}
+仅当上方的一键导入失败时才按照如下教程操作，其余情况无视。
+{% endhint %}
+
+1.请点击位于软件右上角的\[+\]按键
+
+![](../../.gitbook/assets/ios1.png)
+
+2.在类型中选择**Subscribe**
+
+![](../../.gitbook/assets/ios2.png)
+
+3.在URL栏中输入**订阅地址**，点击完成后，即可自动更新节点。
+
+{% hint style="info" %}
+订阅地址可以在阁下之 [用户中心](https://www.tzct.xyz/user) 下方找到。
+{% endhint %}
+
+![](../../.gitbook/assets/dyurl.png)
+
+![](../../.gitbook/assets/ios3.png)
+
+{% hint style="warning" %}
+无法获取到节点？出现错误？请[点击这里](../../other/faq.md#ios)获取解决方案
+{% endhint %}
+
+{% hint style="success" %}
+至此节点已经导入完成。请[点击这里继续查看配置教程](shadowrocket.md#ruan-jian-she-zhi)
+{% endhint %}
 
