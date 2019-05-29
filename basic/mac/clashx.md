@@ -30,6 +30,8 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 2.开启 ClashX，点击上方任务栏中的 ClashX -&gt; Config -&gt; Remote config -&gt; Set URL，粘贴链接并确认
 
+![](../../.gitbook/assets/snipaste_2019-05-29_14-22-49.png)
+
 3.找到Proxy选项，在此处您可以选择节点。Auto-UrlTest即代表自动选择最佳。如您有自己的使用习惯，也可自行选择节点。
 
 {% hint style="info" %}
