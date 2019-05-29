@@ -1,5 +1,5 @@
 ---
-description: 可使用Surge2配置的安卓客户端，适合高玩
+description: 可使用分流规则配置的安卓客户端，适合高玩
 ---
 
 # Surfboard
