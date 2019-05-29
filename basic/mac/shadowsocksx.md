@@ -1,5 +1,5 @@
 ---
-description: 传统代理工具，稳定值得信赖
+description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 ---
 
 # ShadowsocksX-NG-R8
