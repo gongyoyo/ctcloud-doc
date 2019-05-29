@@ -31,6 +31,12 @@ description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 
 {% embed url="https://share.weiyun.com/58rSZHv" caption="点击上方下载" %}
 
+{% hint style="danger" %}
+以上的自动安装包无法使用？您可以[点击这里下载](https://www.lanzous.com/i3wzd4h)压缩包进行手动解压安装。
+
+解压完成打开 **ShadowsocksR-dotnet4.0.exe** 即可。
+{% endhint %}
+
 ## 软件安装
 
 1. 您可以在上方找到**ShadowsocksR**客户端的下载链接，下载完毕后，打开进行安装。
