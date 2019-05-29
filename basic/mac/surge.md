@@ -1,5 +1,5 @@
 ---
-description: 一款专业的开发者调试和代理工具
+description: 一款专业的开发者调试和代理工具（付费）
 ---
 
 # Surge
@@ -39,4 +39,8 @@ Surge Mac 是一个独立付费应用，您需要在[官网单独购买授权](h
 ## 策略组
 
 在Proxy策略组中选择”**Auto-UrlTest**“（自动选择节点）或选择自己需要的节点以完成配置。更多策略组的说明请[点击这里查看](../../advanced/rules.md)
+
+{% hint style="info" %}
+我们不是 Surge 的开发者和销售者，关于 Surge 软件本身的问题（如软件授权 / 软件更新），请向 Surge 开发者询问
+{% endhint %}
 

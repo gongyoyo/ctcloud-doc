@@ -1,5 +1,5 @@
 ---
-description: 一款很美的，功能完善的代理工具。
+description: 一款很美的，功能完善的代理工具。（付费）
 ---
 
 # Quantumult
