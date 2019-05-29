@@ -21,11 +21,11 @@ description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 
 * 蓝奏云：
 
-
+{% embed url="https://www.lanzous.com/i4czc6j" caption="点击上方下载" %}
 
 * 腾讯微云：
 
-{% embed url="https://share.weiyun.com/5MfX2ca" %}
+{% embed url="https://share.weiyun.com/5MfX2ca" caption="点击上方下载" %}
 
 ## 软件安装
 

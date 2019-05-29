@@ -26,9 +26,11 @@ description: 游戏专用加速器
 
 蓝奏云：
 
+{% embed url="https://www.lanzous.com/i4czbpc" caption="点击上方下载" %}
+
 腾讯微云：
 
-{% embed url="https://share.weiyun.com/5sZtorP" %}
+{% embed url="https://share.weiyun.com/5sZtorP" caption="点击上方下载" %}
 
 ## 软件安装
 
