@@ -1,3 +1,7 @@
+---
+description: SSR
+---
+
 # ShadowsocksR
 
 > 本文当中的环境为 `CentOS 7 64 Bit 操作系统`
