@@ -1,5 +1,5 @@
 ---
-description: 对 Clash/Surge/Surfboard 的规则进行进一步解释
+description: 对 Clash/Surge/Surfboard 的策略组进行进一步解释
 ---
 
 # 策略组
