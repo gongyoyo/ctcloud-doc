@@ -27,7 +27,6 @@
 * [路由器](basic/router/README.md)
   * [梅林固件 - SSR](basic/router/merlin.md)
   * [LEDE - SSR](basic/router/koolshare-lede-ssr.md)
-  * [其他固件](basic/router/qi-ta-gu-jian.md)
 * [Linux](basic/linux/README.md)
   * [ShadowsocksR](basic/linux/ssr.md)
 
