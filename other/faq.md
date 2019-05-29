@@ -6,9 +6,11 @@ description: 这是一个常见问题的列表，请按照自己的设备进行�
 
 **请选择设备：**
 
-[Windows](faq.md#windows)     [Android](faq.md#android)     [IOS](faq.md#ios)
+[Windows](faq.md#windows)     [Android](faq.md#android)      [IOS](faq.md#ios)      [MAC](faq.md#mac)      [路由器](faq.md#lu-you-qi)
 
 ## Windows
+
+请选择软件：
 
 {% tabs %}
 {% tab title="SSR" %}
@@ -82,6 +84,8 @@ ps：受限于**人类科技**，美服加速不可能做到令人满意的程�
 
 ## Android
 
+请选择软件：
+
 {% tabs %}
 {% tab title="SSR" %}
 ### •为什么我更新订阅的时候一直转圈？
@@ -101,6 +105,8 @@ ps：受限于**人类科技**，美服加速不可能做到令人满意的程�
 
 ## IOS
 
+请选择软件：
+
 {% tabs %}
 {% tab title="小火箭" %}
 ### 为什么我更新订阅的时候一直转圈/失败？
@@ -115,4 +121,18 @@ ps：受限于**人类科技**，美服加速不可能做到令人满意的程�
 3. 可能是网络问题，如果使用wifi请重新拨号（不会的重启路由器光猫也一样），使用流量请飞行模式开了再关，然后再试。
 {% endtab %}
 {% endtabs %}
+
+## MAC
+
+请选择软件：
+
+{% tabs %}
+{% tab title="未完成" %}
+未完成
+{% endtab %}
+{% endtabs %}
+
+## 路由器
+
+未完成
 
