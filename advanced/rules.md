@@ -25,7 +25,7 @@ description: 对 Clash/Surge/Surfboard 的规则进行进一步解释
 | Apple | 苹果网站 | Direct（直连） |
 | AsianTV | 亚洲流媒体 | Direct（直连） |
 | GlobalTV | 全球流媒体（如NF） | Proxy（代理） |
-| Others | 除以上列表的其它网站 | Direct（直连） |
+| Others | 除以上列表的其它网站 | Proxy（代理） |
 
 说明：在这些规则里，选择Proxy，则遵循在之前教程里的选项。默认是“Auto-Urltest”。Proxy选项可以看做是一个默认节点规则。而您想要更改某些特定网站的规则，可以自行设置节点（如图）
 
