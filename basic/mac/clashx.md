@@ -29,7 +29,7 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 3.找到Proxy选项，在此处您可以选择节点。Auto-UrlTest即代表自动选择最佳。如您有自己的使用习惯，也可自行选择节点。
 
 {% hint style="info" %}
-下方还有很多选项，包括Domestic，Others，Adblock等等。这些属于进阶规则，如果您感兴趣，可以[点击这里](../../advanced/rules.md)查看相关教程。请勿在看教程之前随意修改，否则可能出现问题！
+下方还有很多选项，包括Domestic，Others，Adblock等等。这些属于策略组，如果您感兴趣，可以[点击这里](../../advanced/rules.md)查看相关教程。请勿在看教程之前随意修改，否则可能出现问题！
 {% endhint %}
 
 4.开启 **Start at login** 和 **Set as system Proxy**，实现开机自启并自动设置为系统代理。  

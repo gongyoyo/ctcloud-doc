@@ -33,7 +33,7 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 ![](../../.gitbook/assets/snipaste_2019-05-29_10-39-22.png)
 
 {% hint style="info" %}
-下方还有很多选项，包括Domestic，Others，Adblock等等。这些属于进阶规则，如果您感兴趣，可以[点击这里](../../advanced/rules.md)查看相关教程。请勿在看教程之前随意修改，否则可能出现问题！
+下方还有很多选项，包括Domestic，Others，Adblock等等。这些属于策略组，如果您感兴趣，可以[点击这里](../../advanced/rules.md)查看相关教程。请勿在看教程之前随意修改，否则可能出现问题！
 {% endhint %}
 
 4. 前往 **General** 面板，开启系统代理 system proxy，即可启动程序。Start with Windows是开机自启选项，我们建议开启。

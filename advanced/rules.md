@@ -2,7 +2,7 @@
 description: 对 Clash/Surge/Surfboard 的规则进行进一步解释
 ---
 
-# 进阶规则
+# 策略组
 
 ## 前言
 
