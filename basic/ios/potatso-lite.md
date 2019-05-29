@@ -16,7 +16,9 @@ description: 免费，简易的代理工具（免费用户可以用）
 
 ## 下载
 
+{% hint style="info" %}
 此应用为免费应用。
+{% endhint %}
 
 **如果您拥有国外Appstore账号：**
 

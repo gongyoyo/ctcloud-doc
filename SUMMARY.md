@@ -18,7 +18,7 @@
 * [IOS](basic/ios/README.md)
   * [Shadowrocket](basic/ios/shadowrocket.md)
   * [Potatso Lite](basic/ios/potatso-lite.md)
-  * [Quamtumult](basic/ios/quamtumult.md)
+  * [Quantumult](basic/ios/quantumult.md)
   * [Surge](basic/ios/surge.md)
 * [MAC](basic/mac/README.md)
   * [ShadowsocksX-NG-R8](basic/mac/shadowsocksx.md)
@@ -27,6 +27,7 @@
 * [路由器](basic/router/README.md)
   * [梅林固件 - SSR](basic/router/merlin.md)
   * [LEDE - SSR](basic/router/koolshare-lede-ssr.md)
+  * [其他固件](basic/router/qi-ta-gu-jian.md)
 * [Linux](basic/linux/README.md)
   * [ShadowsocksR](basic/linux/ssr.md)
 
