@@ -20,6 +20,14 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 {% embed url="https://github.com/Fndroid/clash\_for\_windows\_pkg/releases" %}
 
+## 对比传统SSR优势
+
+* 拥有自动选择/切换节点功能；
+* 自带的规则对比SSR的PAC或自带规则更为完善，减少误判；
+* 可针对不同网站自动选择不同节点；
+* 可以使用Adblock规则去广告（默认已开启）。
+* 不存在SSR在Win10下直接关闭会导致断网的情况。
+
 ## 配置
 
 1.前往用户中心下方，到**Clash托管**处点击 “复制链接”

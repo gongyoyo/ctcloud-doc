@@ -36,6 +36,13 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 
 加入 Beta 测试后，请[前往 HockeyApp 下载](https://rink.hockeyapp.net/apps/37108b2364df445b8461466a0cd734a9) Android apk 安装文档。
 
+## 对比传统SSR优势
+
+* 拥有自动选择/切换节点功能；
+* 自带的规则对比SSR的PAC或自带规则更为完善，减少误判；
+* 可针对不同网站自动选择不同节点；
+* 可以使用Adblock规则去广告（默认已开启）。
+
 ## 在 Surfboard 中使用订阅配置
 
 1.前往用户中心获取托管链接（可使用一键托管）。
