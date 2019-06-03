@@ -33,6 +33,7 @@
 
 ## 高级
 
+* [订阅链接](advanced/subscribe.md)
 * [Telegram教程](advanced/telegram.md)
 * [NF相关问题](advanced/nf.md)
 * [通过Socks5使用SSR](advanced/socks5.md)
