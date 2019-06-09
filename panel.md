@@ -28,7 +28,7 @@ description: 我们在这里为您提供了关于用户面板最基本的指南�
 
 {% page-ref page="advanced/edit-subscribe.md" %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 注意：游戏订阅仅适用于[SSTAP](basic/windows/sstap.md)进行游戏加速使用，其他软件适配不做保证。
 {% endhint %}
 
