@@ -30,7 +30,7 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 ## 配置
 
-1.前往用户中心下方，到**Clash托管**处点击 “复制链接”
+1.前往订阅中心，到**Clash托管**处点击 “复制链接”
 
 {% hint style="info" %}
 托管链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)

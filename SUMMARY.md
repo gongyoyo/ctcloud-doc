@@ -2,6 +2,7 @@
 
 * [CTCloud - Documents/用户手册](README.md)
 * [用户中心](https://www.tzct.xyz/user)
+* [订阅中心](http://www.tzct.xyz/user/subscribe)
 * [用户面板向导](panel.md)
 
 ## 基础
@@ -33,7 +34,7 @@
 
 ## 高级
 
-* [订阅链接](advanced/subscribe.md)
+* [定制订阅](advanced/edit-subscribe.md)
 * [Telegram教程](advanced/telegram.md)
 * [NF相关问题](advanced/nf.md)
 * [通过Socks5使用SSR](advanced/socks5.md)

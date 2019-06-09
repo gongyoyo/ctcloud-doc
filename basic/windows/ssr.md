@@ -72,7 +72,7 @@ description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 
 
 
-5.前往用户中心获取订阅链接。
+5.前往订阅中心获取”**视频“**订阅链接。
 
 {% hint style="info" %}
 订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)

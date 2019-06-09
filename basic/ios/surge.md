@@ -31,11 +31,15 @@ description: 一款专业的开发者调试和代理工具（付费）
 
 ## 导入配置
 
-1.点击下方，前往用户中心
+1.前往订阅中心，查看订阅链接
 
-2.往下翻，找到订阅链接位置，点击”一键托管“按钮即可（自行根据自己软件版本选择）。
+{% hint style="info" %}
+订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
+{% endhint %}
 
-![](../../.gitbook/assets/snipaste_2019-05-29_23-13-07.png)
+2.找到Surge托管位置，点击”一键托管“按钮即可（注意对应自己的Surge版本）。
+
+![](../../.gitbook/assets/snipaste_2019-06-09_17-56-05.png)
 
 3.接下来在 Surge 应用中，点击安装 \(Install\) 配置
 

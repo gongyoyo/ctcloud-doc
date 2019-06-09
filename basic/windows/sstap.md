@@ -46,7 +46,7 @@ description: 游戏专用加速器
 
 ![](../../.gitbook/assets/tap1.png)
 
-2.前往用户中心获取订阅链接。
+2.前往订阅中心获取**”视频“**订阅链接。
 
 {% hint style="info" %}
 订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)

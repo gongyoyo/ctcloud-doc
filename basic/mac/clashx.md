@@ -29,7 +29,7 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 ## 配置
 
-1.前往用户中心获取托管链接。
+1.前往订阅中心获取托管链接。
 
 {% hint style="info" %}
 托管链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)

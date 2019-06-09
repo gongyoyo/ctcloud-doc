@@ -24,7 +24,7 @@ description: LEDE 是 Openwrt x64 (LEDE) 路由器操作系统的另一个分支
 配置前，建议将您的 LEDE 固件升级至最新版本。
 {% endhint %}
 
-1.前往用户中心获取订阅链接。
+1.前往订阅中心获取订阅链接。
 
 {% hint style="info" %}
 订阅链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)

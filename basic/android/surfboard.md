@@ -45,7 +45,7 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 
 ## 在 Surfboard 中使用订阅配置
 
-1.前往用户中心获取托管链接（可使用一键托管）。
+1.前往订阅中心获取托管链接（可使用一键托管）。
 
 {% hint style="info" %}
 托管链接获取教程请[点击这里](../../panel.md#ding-yue-tuo-guan-lian-jie)
