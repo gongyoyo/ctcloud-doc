@@ -28,6 +28,10 @@ description: 我们在这里为您提供了关于用户面板最基本的指南�
 
 {% page-ref page="advanced/edit-subscribe.md" %}
 
+{% hint style="info" %}
+注意：游戏订阅仅适用于[SSTAP](basic/windows/sstap.md)进行游戏加速使用，其他软件适配不做保证。
+{% endhint %}
+
 ## 邀请好友
 
 您将可以通过我们的 [返利系统](https://www.tzct.xyz/user/invite)（Affiliates）邀请好友使用服务并且获得返利。您只需复制您的邀请链接给您的好友进行注册，当您的好友充值时，您都会受到其充值数值的15%返利。
