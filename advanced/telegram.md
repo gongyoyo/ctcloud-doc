@@ -83,3 +83,7 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 ![](../.gitbook/assets/t-3.jpg)
 
+5.一些特殊的指令（暂未列入列表）：
+
+* /subscribe 查看订阅
+
