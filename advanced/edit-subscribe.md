@@ -36,9 +36,15 @@ description: 定制订阅功能允许您创建一个符合您习惯的订阅地�
 
 在这举个例子，以帮助您进行定制。
 
-> 例如，我想订阅美国和香港的VIP节点，并且希望它们即可以看Youtube可以看Netflix。
+> 例如，我想订阅美国和香港的VIP节点，并且希望它们可以看Youtube和Netflix。
 
 只需要：自选等级选择VIP，自选地区选择美国和香港，自选节点选择绕过，自选标签选择Youtube和Netflix即可。
+
+{% hint style="info" %}
+注意，标签选择Youtube和Netflix，不是代表要求节点即可以看Youtube又可以看Netflix。这种选择下会出现三种节点：只能看Youtube的，只能看Netflix的，即能看Youtube又能看Netflix的。
+
+想要肯定能看Netflix的节点，请自选标签单选Netflix。
+{% endhint %}
 
 ## 其它
 
