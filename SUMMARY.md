@@ -14,6 +14,7 @@
   * [SSTAP（游戏）](basic/windows/sstap.md)
 * [Android](basic/android/README.md)
   * [SSR](basic/android/ssr.md)
+  * [ClashA](basic/android/clasha.md)
   * [Surfboard](basic/android/surfboard.md)
   * [SSD](basic/android/ssd.md)
 * [IOS](basic/ios/README.md)
