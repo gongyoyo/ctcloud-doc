@@ -8,6 +8,10 @@ description: 这里是CTCloud的用户文档。我们在此为您准备了关于
 在使用移动设备浏览此文档时，请点击左上角三道横线以展开目录栏
 {% endhint %}
 
+{% hint style="danger" %}
+**安卓用户请注意！！**使用国产/自带浏览器可能会出现菜单无法展开，软件无法下载等BUG，建议使用**Chrome**浏览器打开本页面！
+{% endhint %}
+
 {% hint style="success" %}
 文档更新时间：2019年6月9日
 

@@ -4,6 +4,14 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 # ClashA
 
+{% hint style="danger" %}
+**安卓用户请注意！！**使用国产/自带浏览器可能会出现菜单无法展开，软件无法下载等BUG，建议使用**Chrome**浏览器打开本页面！
+{% endhint %}
+
+{% hint style="danger" %}
+该应用处于测试期，不保证稳定，功能界面简陋，请谨慎使用。
+{% endhint %}
+
 ## 前言
 
 {% hint style="info" %}

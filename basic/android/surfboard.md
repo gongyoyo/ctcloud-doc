@@ -5,6 +5,10 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 # Surfboard
 
 {% hint style="danger" %}
+**安卓用户请注意！！**使用国产/自带浏览器可能会出现菜单无法展开，软件无法下载等BUG，建议使用**Chrome**浏览器打开本页面！
+{% endhint %}
+
+{% hint style="danger" %}
 该应用处于测试期，不保证稳定，有一定的操作难度！
 
 最新消息：Surfboard暂停招募测试人员，仅原先加入测试的方可下载。
