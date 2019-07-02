@@ -26,13 +26,8 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 
 ## 软件下载
 
- 蓝奏云下载：
-
-{% embed url="https://www.lanzous.com/i4q0uni" caption="点击上方下载" %}
-
-腾讯微云下载：
-
-{% embed url="https://share.weiyun.com/5apzD05" caption="点击上方下载" %}
+* 蓝奏云下载：[点击这里下载](https://www.lanzous.com/i4q0uni)
+* 腾讯微云下载：[点击这里下载](https://share.weiyun.com/5apzD05)
 
 ## 对比传统SSR优势
 

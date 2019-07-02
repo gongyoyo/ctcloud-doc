@@ -19,13 +19,8 @@ description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 
 ## 软件下载
 
-* 蓝奏云：
-
-{% embed url="https://www.lanzous.com/i4czc6j" caption="点击上方下载" %}
-
-* 腾讯微云：
-
-{% embed url="https://share.weiyun.com/5MfX2ca" caption="点击上方下载" %}
+* 蓝奏云：[点击这里下载](https://www.lanzous.com/i4czc6j)
+* 腾讯微云：[点击这里下载](https://share.weiyun.com/5MfX2ca)
 
 ## 软件安装
 

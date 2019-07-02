@@ -16,9 +16,7 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 ## 下载
 
-点击下方进入Github项目页，下载安装文件（exe）
-
-{% embed url="https://github.com/Fndroid/clash\_for\_windows\_pkg/releases" %}
+[点击这里进入](https://github.com/Fndroid/clash_for_windows_pkg/releases)Github项目页，下载安装文件（exe）
 
 ## 对比传统SSR优势
 

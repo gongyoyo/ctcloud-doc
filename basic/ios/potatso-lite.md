@@ -22,15 +22,11 @@ description: 免费，简易的代理工具（免费用户可以用）
 
 **如果您拥有国外Appstore账号：**
 
-请点击下方链接直接下载（推荐）
-
-{% embed url="https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8" %}
+[请点击这里前往APPSTORE](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)直接下载（推荐）
 
 **如果您只有国内Appstore账号：**
 
-请先前往Appstore下载 ”**Testflight**“，然后点击下方链接，加入beta测试并下载
-
-{% embed url="https://testflight.apple.com/join/NkF46PRd" %}
+请先前往Appstore下载 ”**Testflight**“，然后[点击这里](https://testflight.apple.com/join/NkF46PRd)，加入beta测试并下载
 
 ## 配置
 

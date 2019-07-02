@@ -23,9 +23,8 @@ description: 传统代理工具，稳定值得信赖，普通小白用户推荐
 
 ## 软件下载
 
-蓝奏云：[点击这里下载](https://www.lanzous.com/i3s6yab)
-
-腾讯微云：[点击这里下载](https://share.weiyun.com/58rSZHv)
+* 蓝奏云：[点击这里下载](https://www.lanzous.com/i3s6yab)
+* 腾讯微云：[点击这里下载](https://share.weiyun.com/58rSZHv)
 
 {% hint style="danger" %}
 以上的自动安装包无法使用？您可以[点击这里下载](https://www.lanzous.com/i3wzd4h)压缩包进行手动解压安装。
