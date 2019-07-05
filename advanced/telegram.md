@@ -85,5 +85,5 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 5.一些特殊的指令（暂未列入列表）：
 
-* /subscribe 查看订阅
+* /subscribe 查看订阅链接    （必须私聊机器人，群内发送失效）
 
