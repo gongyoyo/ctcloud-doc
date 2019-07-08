@@ -4,6 +4,10 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 # ClashX
 
+{% hint style="warning" %}
+**如果您是免费用户请注意：**免费用户仅能使用SSR，不支持本软件！
+{% endhint %}
+
 ## 前言
 
 {% hint style="info" %}

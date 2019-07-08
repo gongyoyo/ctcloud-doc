@@ -4,6 +4,10 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 
 # Surfboard
 
+{% hint style="warning" %}
+**如果您是免费用户请注意：**免费用户仅能使用SSR，不支持本软件！
+{% endhint %}
+
 {% hint style="danger" %}
 **安卓用户请注意！！**使用国产/自带浏览器可能会出现菜单无法展开，软件无法下载等BUG，建议使用**Chrome**浏览器打开本页面！
 {% endhint %}

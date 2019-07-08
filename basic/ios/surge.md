@@ -4,6 +4,10 @@ description: 一款专业的开发者调试和代理工具（付费）
 
 # Surge
 
+{% hint style="warning" %}
+**如果您是免费用户请注意：**免费用户不支持本软件！
+{% endhint %}
+
 ## 前言
 
 {% hint style="info" %}
