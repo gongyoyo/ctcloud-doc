@@ -1,8 +1,8 @@
 # Table of contents
 
 * [CTCloud - Documents/用户手册](README.md)
-* [用户中心](https://www.tzct.xyz/user)
-* [订阅中心](http://www.tzct.xyz/user/subscribe)
+* [用户中心](https://www.cttz.xyz/user)
+* [订阅中心](http://www.cttz.xyz/user/subscribe)
 * [用户面板向导](panel.md)
 
 ## 基础 <a id="basic"></a>
