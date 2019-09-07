@@ -25,7 +25,7 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 {% endhint %}
 
 {% hint style="warning" %}
-由于中国区Shadowrocket已下架，您可使用自己的**其他国家区域**账号购买Shadowrocket或者使用我们提供的美区账号。要使用我们提供的美区账号请前往 [用户中心](https://www.tzct.xyz/user/) 查看“**用户须知**”部分。注意，只有购买本站VIP、试用的用户可以获取！
+由于中国区Shadowrocket已下架，您可使用自己的**其他国家区域**账号购买Shadowrocket或者使用我们提供的美区账号。要使用我们提供的美区账号请前往 [用户中心](http://tzwz.design/user) 查看“**用户须知**”部分。注意，只有购买本站VIP、试用的用户可以获取！
 {% endhint %}
 
 
@@ -49,7 +49,7 @@ description: 又名”小火箭“，功能齐全，收费但我们为VIP提供�
 4.再点击登录键，输入我们提供的账号密码。
 
 {% hint style="info" %}
-要使用我们提供的美区账号请前往 [用户中心](https://www.tzct.xyz/user/) 查看“**用户须知**”部分。注意，只有购买本站VIP、试用的用户可以获取！
+要使用我们提供的美区账号请前往 [用户中心](http://tzwz.design/user) 查看“**用户须知**”部分。注意，只有购买本站VIP、试用的用户可以获取！
 {% endhint %}
 
 {% hint style="warning" %}

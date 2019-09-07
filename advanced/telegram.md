@@ -55,7 +55,7 @@ Telegram官方网站：[https://telegram.org/](https://telegram.org/)
 
 ## 在Telegram中绑定本站的服务
 
-请在 [用户中心](https://www.tzct.xyz/user) 中查看 **用户须知** 里的“Telegram群组加入教程”以进行绑定。
+请在 [用户中心](http://tzwz.design/user) 中查看 **用户须知** 里的“Telegram群组加入教程”以进行绑定。
 
 {% hint style="info" %}
 为本站持续长久运行，管控管理员工作量，故TG群只对VIP会员开放，敬请谅解
