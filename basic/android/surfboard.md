@@ -60,13 +60,13 @@ description: 可使用分流规则配置的安卓客户端，适合高玩
 
 ![](../../.gitbook/assets/photo_2019-05-29_10-02-54.jpg)
 
-4.回到下方第二个选项卡 Config，找到Proxy字段（如图，默认就在最上面）。在此处您可以选择节点。~~Auto-UrlTest即代表自动选择最佳。如您有自己的使用习惯，也可自行选择节点。~~Auto=Urltest已取消，请手动选择自己需要的节点。
+4.回到下方第二个选项卡 Config，找到Proxy字段（如图，默认就在最上面）。在此处您可以选择节点。~~Auto-UrlTest即代表自动选择最佳。如您有自己的使用习惯，也可自行选择节点。~~Auto=Urltest已取消，请手动选择自己需要的节点。不要选择Direct，那是不连接节点的意思！
 
 {% hint style="info" %}
 下方还有很多字段，包括Domestic，Others，Adblock等等。这些属于策略组，如果您感兴趣，可以[点击这里](../../advanced/rules.md)查看相关教程。请勿在看教程之前随意修改，否则可能出现问题！
 {% endhint %}
 
-![](../../.gitbook/assets/photo_2019-05-29_10-07-10.jpg)
+![](../../.gitbook/assets/snipaste_2019-09-17_17-12-09.png)
 
 5.选择节点后，回到第一个选项卡 Switch 页面，点击下方红色按钮开启。系统可能会询问是否允许 VPN 连接，点击允许。
 
