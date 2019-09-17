@@ -13,9 +13,9 @@ description: 这里是CTCloud的用户文档。我们在此为您准备了关于
 {% endhint %}
 
 {% hint style="success" %}
-文档更新时间：2019年6月9日
+文档更新时间：2019年9月17日
 
-文档更新内容：为面板新功能（定制订阅）适配
+文档更新内容：更新NF的相关内容，更新Windows-Clash的图片。
 {% endhint %}
 
 ## 注意
