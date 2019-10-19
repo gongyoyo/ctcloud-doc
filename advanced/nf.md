@@ -9,7 +9,7 @@
 ### Windows
 
 {% hint style="info" %}
-这里只列举部分浏览器，其他浏览器大同小异。
+大部分浏览器可以使用 CTRL+SHIFT+DEL 的方式快捷呼出清理选项，选择**cookie及其他网站数据**然后清理即可。手动操作的办法如下：
 {% endhint %}
 
 #### • Chrome
