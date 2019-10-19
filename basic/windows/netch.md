@@ -1,5 +1,5 @@
 ---
-description: 新一代游戏加速器，解决NAT类型问题，不能保证稳定可用
+description: 新一代游戏加速器，解决NAT类型问题
 ---
 
 # Netch（游戏）
