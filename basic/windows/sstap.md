@@ -1,5 +1,5 @@
 ---
-description: 游戏专用加速器
+description: 老牌游戏专用加速器，稳定首选
 ---
 
 # SSTAP（游戏）

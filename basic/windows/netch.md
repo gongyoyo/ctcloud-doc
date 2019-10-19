@@ -1,5 +1,5 @@
 ---
-description: 新一代游戏加速器，功能更多，解决NAT类型问题
+description: 新一代游戏加速器，解决NAT类型问题，不能保证稳定可用
 ---
 
 # Netch（游戏）
@@ -10,6 +10,10 @@ description: 新一代游戏加速器，功能更多，解决NAT类型问题
 
 {% hint style="info" %}
 本站仅允许付费用户使用游戏节点，如想使用请[点击这里](https://www.tzct.xyz/user)前往商店购买套餐！
+{% endhint %}
+
+{% hint style="danger" %}
+本软件为新生软件，对比[SSTAP](sstap.md)，规则可能更好，还能解决NAT类型问题。但是根据反馈，该软件可能出现断线、游戏无法连接等现象，不够稳定。建议玩不看NAT类型的游戏使用[SSTAP](sstap.md)（例如R6，战地等）。
 {% endhint %}
 
 ## 前言
