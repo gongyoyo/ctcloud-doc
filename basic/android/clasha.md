@@ -30,6 +30,12 @@ description: 新一代代理工具，拥有更加先进的功能，适合高玩
 
 [点击这里进入](https://github.com/ccg2018/ClashA/releases)Github项目页，下载安装文件（.apk）
 
+{% hint style="info" %}
+Android 10用户请注意：上方地址的版本不支持10系统。官方发布了一个内测版本（beta4）支持但是还没有发布，我们提供下载链接，不确保完全稳定性。
+
+[点击这里进入下载页](https://www.lanzous.com/i6uthhe)
+{% endhint %}
+
 ## 对比传统SSR优势
 
 * 拥有自动选择/切换节点功能；
