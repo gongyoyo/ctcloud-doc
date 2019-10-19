@@ -12,7 +12,7 @@
   * [Clash](basic/windows/clash.md)
   * [SSD](basic/windows/ssd.md)
   * [SSTAP（游戏）](basic/windows/sstap.md)
-  * [Netch（游戏）](basic/windows/netch-you-xi.md)
+  * [Netch（游戏）](basic/windows/netch.md)
 * [Android](basic/android/README.md)
   * [SSR](basic/android/ssr.md)
   * [Surfboard](basic/android/surfboard.md)
